@@ -3,6 +3,10 @@
 <i>- Si Kingslayer, ia melarikan diri semalam.
 - Bagaimana bisa?!</i>
 
+1
+00:00:00,916 --> 00:00:08,385
+<b> Password file : 3serangkai </b>
+
 2
 00:00:03,419 --> 00:00:05,854
 Sansa dan Arya jadi tawanan
