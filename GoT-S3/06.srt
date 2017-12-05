@@ -1,0 +1,3511 @@
+﻿1
+00:00:00,745 --> 00:00:02,079
+<i>Gagak memberi penglihatan.</i>
+
+2
+00:00:02,113 --> 00:00:03,914
+Melihat hal-hal yang
+belum terjadi?
+
+3
+00:00:03,948 --> 00:00:05,582
+<i>Hal yang terjadi
+jauh sebelum kau lahir</i>
+
+4
+00:00:05,616 --> 00:00:08,684
+atau hal-hal yang sedang terjadi
+di tempat ribuan mil jauhnya.
+
+5
+00:00:08,718 --> 00:00:10,720
+kau memiliki penglihatan, juga?
+
+6
+00:00:10,754 --> 00:00:13,522
+Orell mengatakan ada Crows
+berpatroli di sekitar dinding.
+(Crows: Night's Watch)
+
+
+7
+00:00:13,556 --> 00:00:15,958
+Jika aku tahu bagian Wall mana yang kau tuju, 
+aku bisa memberitahumu.
+
+8
+00:00:15,992 --> 00:00:18,660
+- Kau pasti ingin tahu.
+- Dia bukan seorang Crow lagi.
+
+9
+00:00:20,429 --> 00:00:22,830
+Kita akan segera tahu.
+
+10
+00:00:22,865 --> 00:00:25,933
+- Berapa lama kau akan pergi?
+- Aku tidak tahu.
+
+11
+00:00:25,968 --> 00:00:28,069
+Kau bilang sihirmu
+memerlukan darah seorang raja.
+
+12
+00:00:28,103 --> 00:00:29,737
+- Ya.
+- Akulah raja yang sesungguhnya.
+
+13
+00:00:29,771 --> 00:00:32,339
+Tapi ada orang lain
+yang sedarah denganmu.
+
+14
+00:00:32,374 --> 00:00:36,109
+Para Tyrells diam-diam 
+ingin menikahkan Sansa Stark dengan Ser Loras.
+
+15
+00:00:36,144 --> 00:00:38,644
+<i>Kita perlu mencarikan Sansa Stark
+suami yang lain.</i>
+
+16
+00:00:38,669 --> 00:00:40,047
+kau tidak serius.
+
+17
+00:00:40,048 --> 00:00:42,349
+Tyrion akan melakukan
+apa yang diminta, demikian juga denganmu
+
+18
+00:00:42,383 --> 00:00:44,485
+- Apa maksudmu?
+- kau akan menikahi Ser Loras.
+
+19
+00:00:44,519 --> 00:00:46,454
+- Aku tidak mau.
+- Ya, kau harus mau.
+
+20
+00:00:46,488 --> 00:00:49,323
+Lord Bolton, aku menyerahkan
+Kingslayer padamu.
+
+21
+00:00:49,358 --> 00:00:51,926
+Angkat dia, Locke.
+Bebaskan dia.
+
+22
+00:00:51,961 --> 00:00:53,761
+Cari kamar yang pantas
+untuk para tamu.
+
+23
+00:00:53,796 --> 00:00:55,363
+Nanti kita akan bicara lagi.
+
+24
+00:00:55,397 --> 00:00:56,495
+Berapa jauh jarak ke Deepwood Motte?
+
+25
+00:00:56,520 --> 00:00:57,766
+Tidak jauh, Tuanku.
+
+26
+00:00:57,767 --> 00:01:00,201
+<i>kakakmu menunggumu disana.</i>
+
+27
+00:01:01,771 --> 00:01:04,039
+Kembalikan dia ketempat asalnya.
+
+28
+00:01:05,174 --> 00:01:08,243
+Rickard Karstark,
+Aku menghukum mati dirimu.
+
+29
+00:01:09,612 --> 00:01:12,481
+Aku perlu pengganti para Karstarks
+yang berbaris pulang
+
+30
+00:01:12,515 --> 00:01:14,416
+Hanya ada satu orang
+di kerajaan ini
+
+31
+00:01:14,451 --> 00:01:15,817
+dengan jenis tentara seperti itu.
+
+32
+00:01:15,852 --> 00:01:17,853
+Orang yang putrinya
+seharusnya ku nikahi--
+
+33
+00:01:17,887 --> 00:01:19,054
+Walder Frey.
+
+34
+00:01:21,090 --> 00:01:22,924
+Aku akan memenggal kepalamu
+karena ini!
+
+35
+00:01:24,793 --> 00:01:26,594
+Kita harus pergi.
+Sekarang!
+
+36
+00:01:29,464 --> 00:01:33,066
+Bersalah! Bersalah!
+Bersalah! Bersalah!
+
+37
+00:01:34,736 --> 00:01:36,636
+<i>- Tuhan, curahkan cahayamu...
+- Kukira dia telah membunuhmu.</i>
+
+38
+00:01:36,671 --> 00:01:38,404
+- Memang.
+- Tapi bagaimana...?
+
+39
+00:01:38,439 --> 00:01:40,106
+Sudah berapa kali
+kau 'membawa' ku kembali?
+
+40
+00:01:40,141 --> 00:01:41,841
+Lord of Light yang
+membawamu kembali.
+
+41
+00:01:41,875 --> 00:01:44,778
+<i>- Berapa kali?
+- Enam kali.</i>
+
+42
+00:01:51,389 --> 00:01:55,389
+== sync, corrected by <font color="#00ff00">elderman</font> ==
+
+43
+00:03:28,286 --> 00:03:31,700
+Game of Thrones S03E06: The Climb
+Diterjemahkan oleh RedSharkz
+Member of  IDFL™ Subscrew
+
+44
+00:03:49,171 --> 00:03:51,906
+kau menumpuk terlalu banyak
+kayu di sana.
+
+45
+00:03:51,941 --> 00:03:55,576
+Tapi semakin banyak kayu,
+semakin besar apinya.
+
+46
+00:03:55,610 --> 00:03:57,712
+Itu perlu berhembus.
+
+47
+00:03:57,746 --> 00:03:59,681
+<i>Angkat kayu yang besar itu.</i>
+
+48
+00:04:09,059 --> 00:04:12,562
+Huh.
+Kau tahu benar tentang api.
+
+49
+00:04:20,371 --> 00:04:24,074
+Ada orang lain yang menyalakan
+api untukmu?
+
+50
+00:04:24,108 --> 00:04:26,977
+Cuaca di Reach tidak
+begitu dingin.
+
+51
+00:04:28,179 --> 00:04:30,847
+Dan tentunya,
+ada para pelayan.
+
+52
+00:04:30,882 --> 00:04:33,150
+Aku tahu kau keturunan bangsawan.
+
+53
+00:04:36,687 --> 00:04:40,557
+Oh, aku menemukan sesuatu
+di Fist of the First Men.
+
+54
+00:04:43,260 --> 00:04:45,094
+Harta karun.
+
+55
+00:04:45,129 --> 00:04:47,631
+Berumur ribuan tahun.
+
+56
+00:04:47,665 --> 00:04:49,265
+Kurasa.
+
+57
+00:04:50,434 --> 00:04:52,369
+Untuk apa itu?
+
+58
+00:04:53,604 --> 00:04:56,105
+Aku tak yakin untuk apa.
+
+59
+00:04:56,140 --> 00:04:58,341
+Meskipun begitu, ini cantik
+bukan?
+
+60
+00:05:06,417 --> 00:05:09,619
+- Berapa lama lagi?
+- Tidak terlalu jauh.
+
+61
+00:05:09,653 --> 00:05:11,821
+Beberapa hari lagi.
+
+62
+00:05:11,855 --> 00:05:15,192
+Apakah The Wall
+sebesar yang dikatakan?
+
+63
+00:05:15,226 --> 00:05:17,094
+Lebih besar.
+
+64
+00:05:18,363 --> 00:05:21,332
+Saking besarnya, kadang-kadang
+kau tidak bisa melihat puncaknya.
+
+65
+00:05:21,366 --> 00:05:23,368
+Tersembunyi di awan.
+
+66
+00:05:25,237 --> 00:05:26,738
+Kau bercanda.
+
+67
+00:05:26,772 --> 00:05:30,943
+Aku tidak bercanda.
+Tingginya 700 meter,
+
+68
+00:05:30,977 --> 00:05:33,279
+semua terbuat dari es.
+
+69
+00:05:33,347 --> 00:05:35,982
+Pada cuaca yang hangat
+kau bisa melihatnya mencair.
+
+70
+00:05:40,588 --> 00:05:43,890
+Castle Black cukup nyaman.
+
+71
+00:05:43,924 --> 00:05:47,260
+Mereka menyalakan api
+di sepanjang lorong
+
+72
+00:05:47,294 --> 00:05:49,029
+siang dan malam.
+
+73
+00:05:49,063 --> 00:05:53,200
+Dan Hobb membuat
+rebusan daging rusa
+
+74
+00:05:53,234 --> 00:05:55,001
+dengan bawang.
+
+75
+00:05:55,036 --> 00:05:56,436
+Sangat lezat.
+
+76
+00:05:56,471 --> 00:06:00,774
+Kadang-kadang, salah satu
+dari kita akan menyanyi.
+
+77
+00:06:00,808 --> 00:06:03,343
+Dareon penyanyi terbaik.
+
+78
+00:06:03,377 --> 00:06:05,478
+- Apa kau bisa menyanyi?
+- Tidak.
+
+79
+00:06:05,512 --> 00:06:08,314
+Tidak, tidak, tidak.
+Tidak terlalu bisa.
+
+80
+00:06:10,551 --> 00:06:12,886
+Nyanyikan aku sebuah lagu.
+
+81
+00:06:12,920 --> 00:06:16,523
+Oh, baiklah.
+
+82
+00:06:16,558 --> 00:06:18,459
+Sebentar.
+
+83
+00:06:20,295 --> 00:06:23,229
+Oh... ahem.
+
+84
+00:06:26,333 --> 00:06:29,435
+â™ª The father's face
+is stern and strong â™ª
+
+85
+00:06:29,470 --> 00:06:32,572
+â™ª He sits and judges
+right from wrong â™ª
+
+86
+00:06:32,606 --> 00:06:35,875
+â™ª He weighs our lives,
+the short and long â™ª
+
+87
+00:06:35,909 --> 00:06:39,145
+â™ª And loves
+the little children â™ª
+
+88
+00:06:39,179 --> 00:06:43,082
+<i>â™ª The mother gives
+the gift of life â™ª</i>
+
+89
+00:06:43,116 --> 00:06:46,885
+â™ª And watches over
+every wife â™ª
+
+90
+00:06:46,920 --> 00:06:51,257
+â™ª Her gentle smile
+ends all strife â™ª
+
+91
+00:06:51,291 --> 00:06:55,027
+â™ª And she loves
+her little children. â™ª
+
+92
+00:07:01,602 --> 00:07:03,169
+Bukan begitu cara
+menguliti kelinci.
+
+93
+00:07:03,203 --> 00:07:04,671
+Aku tahu bagaimana
+cara menguliti kelinci.
+
+94
+00:07:04,705 --> 00:07:07,040
+Sepertinya tidak.
+
+95
+00:07:22,656 --> 00:07:25,157
+kau tumbuh besar
+di utara The Wall,
+
+96
+00:07:25,192 --> 00:07:27,026
+kau belajar cara yang tepat
+untuk bermain.
+
+97
+00:07:27,060 --> 00:07:29,495
+Aku tak melihat permainan apapun
+sebelum aku sampai di sini.
+
+98
+00:07:30,964 --> 00:07:33,099
+Andai aku punya busur, aku bisa menembak
+selusin kelinci.
+
+99
+00:07:33,133 --> 00:07:34,667
+Well, busur ini kubuat sendiri.
+
+100
+00:07:34,701 --> 00:07:36,802
+Kurasa kau tak bisa 
+mempelajarinya di utara The Wall.
+
+101
+00:07:36,836 --> 00:07:38,970
+meskipun begitu, kau bisa
+belajar cara menggunakan tinjumu.
+
+102
+00:07:39,005 --> 00:07:41,039
+Oh, kau akan memukul
+kelinci sampai mati?
+
+103
+00:07:41,074 --> 00:07:42,541
+Aku punya orang lain dalam pikiran.
+
+104
+00:07:42,575 --> 00:07:44,042
+Well, orang lain itu
+sedang duduk di sini.
+
+105
+00:07:44,077 --> 00:07:46,545
+Kalian berdua sangat pandai
+menguliti kelinci.
+
+106
+00:07:46,579 --> 00:07:49,414
+Beberapa dari kita
+sedikit lebih baik.
+
+107
+00:07:49,448 --> 00:07:51,416
+Well, sebagian dari kita akan mengatakan
+terima kasih ketika orang lain
+
+108
+00:07:51,450 --> 00:07:53,518
+berburu sarapan
+untuk mereka.
+
+109
+00:07:53,552 --> 00:07:55,487
+Atau di daerah utara Wall,
+mereka tidak mengajarkanmu berterima kasih?
+
+110
+00:07:55,521 --> 00:07:59,157
+kau punya mulut yang besar, nona,
+dan terlalu banyak gigi.
+
+111
+00:07:59,191 --> 00:08:01,359
+- Hentikan itu!
+- Hodor.
+
+112
+00:08:01,393 --> 00:08:03,895
+Kalian telah bertengkar sejak bertemu.
+Hentikan.
+
+113
+00:08:03,929 --> 00:08:06,731
+Lady Reed sini punya
+tongkat panjang keluar dari pantatnya,
+
+114
+00:08:06,765 --> 00:08:08,232
+Suatu keajaiban kakinya bisa
+menyentuh tanah.
+
+115
+00:08:08,267 --> 00:08:10,602
+Kau berbuat buruk
+padanya setiap hari.
+
+116
+00:08:10,636 --> 00:08:12,036
+Tentu saja dia membalasnya.
+
+117
+00:08:12,071 --> 00:08:13,671
+Aku? Ini salahku?
+
+118
+00:08:13,705 --> 00:08:15,873
+Pertama kali aku bertemu dengannya,
+ia menaruh pisau ke tenggorokanku.
+
+119
+00:08:15,907 --> 00:08:18,242
+Pertama kali aku bertemu denganmu,
+kau menaruh pisau padaku.
+
+120
+00:08:20,379 --> 00:08:22,113
+Kita tak bisa melawan satu sama lain.
+
+121
+00:08:22,147 --> 00:08:24,416
+Kita takkan bisa mencapai Wall.
+
+122
+00:08:25,451 --> 00:08:27,185
+Aku ingin kalian berdua
+untuk berdamai.
+
+123
+00:08:36,263 --> 00:08:38,364
+Caramu menguliti kelinci
+lebih cepat dariku.
+
+124
+00:08:38,398 --> 00:08:41,000
+- Aku sudah bilang begitu, kan?
+- Osha!
+
+125
+00:08:44,504 --> 00:08:46,171
+Kau seorang pemburu yang baik.
+
+126
+00:08:46,205 --> 00:08:47,639
+Terima kasih.
+
+127
+00:08:47,674 --> 00:08:49,107
+Lihat?
+
+128
+00:08:49,142 --> 00:08:50,875
+Tidak begitu sulit, kan?
+Terima kasih.
+
+129
+00:08:50,910 --> 00:08:52,310
+Jangan memaksa.
+
+130
+00:09:03,188 --> 00:09:04,722
+Shh.
+
+131
+00:09:04,756 --> 00:09:06,791
+Aku di sini denganmu.
+
+132
+00:09:06,825 --> 00:09:08,759
+Apa yang terjadi?
+
+133
+00:09:08,794 --> 00:09:10,962
+Aku di sini denganmu.
+
+134
+00:09:12,731 --> 00:09:13,864
+Ada apa dengannya?
+
+135
+00:09:17,302 --> 00:09:20,070
+Penglihatan sedang menguasainya.
+
+136
+00:09:21,673 --> 00:09:23,407
+Dia sedang mengalaminya?
+
+137
+00:09:43,561 --> 00:09:45,595
+Aku melihat Jon Snow.
+
+138
+00:09:46,563 --> 00:09:48,598
+kau melihatnya?
+
+139
+00:09:48,632 --> 00:09:50,199
+Di Castle Black?
+
+140
+00:09:51,434 --> 00:09:53,902
+Dia berada di sisi yang salah
+dari The Wall...
+
+141
+00:09:55,038 --> 00:09:56,538
+dikelilingi oleh musuh.
+
+142
+00:10:05,982 --> 00:10:09,718
+Dulu kau tak bisa
+menemukan pohon dalam 1 mil dari The Wall.
+
+143
+00:10:09,752 --> 00:10:12,888
+Crows keluar
+setiap pagi dengan kapak.
+
+144
+00:10:16,158 --> 00:10:19,627
+Setiap tahun, kawananmu semakin sedikit.
+
+145
+00:10:26,069 --> 00:10:27,736
+Kau sudah pernah memanjatnya?
+
+146
+00:10:27,770 --> 00:10:29,839
+Belum.
+
+147
+00:10:29,873 --> 00:10:32,809
+Tapi Tormund sudah melakukannya
+lima puluh kali.
+
+148
+00:10:38,616 --> 00:10:40,618
+Kau takut.
+
+149
+00:10:42,421 --> 00:10:44,855
+<i>- Kau tidak?
+- Aye.</i>
+
+150
+00:10:44,890 --> 00:10:47,625
+Ini adalah perjalanan jauh keatas
+dan jauh ke bawah.
+
+151
+00:10:47,660 --> 00:10:50,028
+Tapi aku sudah menunggu
+seumur hidup
+
+152
+00:10:50,062 --> 00:10:52,063
+untuk melihat dunia
+dari atas sana.
+
+153
+00:10:56,502 --> 00:10:59,571
+Sini, duduk.
+Aku membawa sepasang untukmu.
+
+154
+00:11:00,940 --> 00:11:03,875
+Mungkin terlalu besar untukmu,
+tapi layak.
+
+155
+00:11:03,909 --> 00:11:05,744
+kau membunuh seseorang
+untuk mereka?
+
+156
+00:11:05,778 --> 00:11:07,946
+Tidak.
+
+157
+00:11:07,980 --> 00:11:09,748
+<i>Aku tidak membunuhnya,</i>
+
+158
+00:11:09,782 --> 00:11:12,150
+tapi aku yakin biji pelir-nya
+masih memar.
+
+159
+00:11:18,925 --> 00:11:21,794
+Dia tidak memperlakukanku
+dengan baik seperti dirimu.
+
+160
+00:11:23,163 --> 00:11:26,432
+Dia tidak melakukan hal yang
+kau lakukan dengan lidahmu.
+
+161
+00:11:27,567 --> 00:11:29,235
+Bisakah kita tak membicarakan
+hal itu disini?
+
+162
+00:11:29,269 --> 00:11:31,738
+"Bisakah kita tak membicarakan
+hal itu disini?"
+
+163
+00:11:31,772 --> 00:11:33,573
+Aku Jon Snow.
+
+164
+00:11:33,608 --> 00:11:35,609
+Aku pernah membunuh mayat hidup
+dan Qhorin Halfhand,
+
+165
+00:11:35,643 --> 00:11:37,745
+tapi aku takut
+pada gadis telanjang. "
+
+166
+00:11:37,779 --> 00:11:39,280
+Apakah aku terlihat ketakutan
+waktu itu?
+
+167
+00:11:39,314 --> 00:11:40,948
+Kau gemetar
+seperti daun.
+
+168
+00:11:40,982 --> 00:11:42,516
+Hanya di awal.
+
+169
+00:11:44,052 --> 00:11:45,920
+Hanya di awal.
+
+170
+00:11:48,491 --> 00:11:51,059
+kau seorang pecinta yang baik,
+Jon Snow.
+
+171
+00:11:51,093 --> 00:11:53,962
+Dan jangan khawatir.
+
+172
+00:11:53,996 --> 00:11:56,064
+Rahasiamu aman bersamaku.
+
+173
+00:11:56,099 --> 00:11:58,533
+Rahasia apa?
+
+174
+00:12:00,235 --> 00:12:02,036
+Apa kau pikir aku sebodoh
+semua gadis-gadis
+
+175
+00:12:02,071 --> 00:12:06,006
+dengan gaun sutra
+yang kau kenal?
+
+176
+00:12:06,041 --> 00:12:08,976
+Kau setia
+dan kau berani.
+
+177
+00:12:13,081 --> 00:12:14,848
+kau TIDAK berhenti
+menjadi seorang Crow
+
+178
+00:12:14,883 --> 00:12:17,584
+di hari kau masuk
+ke tenda Mance Rayder.
+
+179
+00:12:24,192 --> 00:12:26,627
+Tapi sekarang aku wanitamu,
+Jon Snow.
+
+180
+00:12:28,730 --> 00:12:32,133
+Kau akan setia pada wanitamu.
+
+181
+00:12:36,972 --> 00:12:39,808
+The Night's Watch
+tidak peduli apakah kau hidup atau mati.
+
+182
+00:12:39,842 --> 00:12:43,211
+Mance Rayder tidak peduli
+jika aku hidup atau mati.
+
+183
+00:12:43,245 --> 00:12:44,813
+Kami hanya prajurit
+dalam tentara mereka
+
+184
+00:12:44,847 --> 00:12:47,149
+dan ada lebih banyak lagi
+yang melanjutkan jika kami gagal.
+
+185
+00:12:54,791 --> 00:12:57,360
+Ini antara kau dan aku
+
+186
+00:12:57,394 --> 00:13:00,463
+urusan antara kau dan aku
+
+187
+00:13:04,101 --> 00:13:06,435
+Jangan pernah mengkhianatiku.
+
+188
+00:13:13,844 --> 00:13:15,244
+Aku tidak akan.
+
+189
+00:13:15,279 --> 00:13:18,347
+Karena aku akan langsung memotong
+pelir cantikmu itu
+
+190
+00:13:18,382 --> 00:13:20,683
+dan mengalungkannya di leherku.
+
+191
+00:13:32,427 --> 00:13:34,261
+Tancapkan besimu dalam-dalam
+
+192
+00:13:34,296 --> 00:13:37,831
+dan pastikan sudah kuat
+sebelum mengambil langkah selanjutnya.
+
+193
+00:13:38,733 --> 00:13:40,367
+Dan jika kau jatuh,
+
+194
+00:13:40,402 --> 00:13:42,136
+jangan menjerit.
+
+195
+00:13:42,170 --> 00:13:45,807
+kau tidak ingin itu menjadi
+hal terakhir yang diingatnya.
+
+196
+00:13:58,489 --> 00:14:00,089
+<i>Joffrey.</i>
+
+197
+00:14:03,793 --> 00:14:06,095
+Cersei.
+
+198
+00:14:06,129 --> 00:14:07,997
+<i>Ilyn Payne.</i>
+
+199
+00:14:09,266 --> 00:14:11,133
+Kau cukup mahir.
+
+200
+00:14:15,339 --> 00:14:18,474
+Kau tidak semahir yang kau kira.
+
+201
+00:14:20,177 --> 00:14:22,811
+Kepala, dada, selangkangan--
+
+202
+00:14:22,846 --> 00:14:24,413
+Aku membidiknya tepat
+ke tempat yang kumau,
+
+203
+00:14:24,448 --> 00:14:28,183
+Aye, tapi kau mengulur
+waktu terlalu lama.
+
+204
+00:14:28,217 --> 00:14:31,720
+kau tidak akan melawan
+orang-orangan jerami, nona kecil.
+
+205
+00:14:33,656 --> 00:14:35,990
+Tunjukkan posisimu.
+
+206
+00:14:38,760 --> 00:14:40,561
+Tahan siku mu tetap tinggi
+
+207
+00:14:40,595 --> 00:14:43,564
+biarkan punggungmu yang bekerja
+
+208
+00:14:45,533 --> 00:14:47,500
+kau menahan.
+
+209
+00:14:47,535 --> 00:14:49,269
+Jangan pernah menahan,
+
+210
+00:14:49,303 --> 00:14:52,238
+- Apa?
+- Otot-ototmu tegang saat kau menahan.
+
+211
+00:14:52,272 --> 00:14:54,540
+Tarik talinya kembali
+ke tengah dagumu
+
+212
+00:14:54,574 --> 00:14:56,041
+dan lepaskan.
+
+213
+00:14:56,075 --> 00:14:57,976
+Jangan pernah menahan.
+
+214
+00:14:58,011 --> 00:15:00,045
+Tapi aku harus membidik.
+
+215
+00:15:00,079 --> 00:15:01,747
+Jangan pernah membidik.
+
+216
+00:15:01,781 --> 00:15:03,348
+Jangan pernah membidik?
+
+217
+00:15:03,383 --> 00:15:07,119
+Matamu tahu kemana
+kau ingin arahkan panahmu
+
+218
+00:15:07,153 --> 00:15:09,354
+Percaya pada matamu.
+
+219
+00:15:13,426 --> 00:15:15,560
+Ada seseorang di sana.
+
+220
+00:15:33,545 --> 00:15:36,614
+Cukup sampai disana.
+
+221
+00:15:41,386 --> 00:15:42,753
+Kami datang sebagai teman.
+
+222
+00:15:42,787 --> 00:15:44,588
+<i>Mohon maaf, M'lady,</i>
+
+223
+00:15:44,622 --> 00:15:46,723
+tapi kami yang akan
+memutuskan itu.
+
+224
+00:15:49,026 --> 00:15:50,693
+Valar morghulis.
+
+225
+00:15:50,728 --> 00:15:52,762
+<i>Valar dohaeris.</i>
+
+226
+00:15:53,786 --> 00:15:57,100
+Aku jarang melihat pendeta wanita
+R'hollor di Riverlands.
+
+227
+00:15:58,258 --> 00:16:00,000
+Kau adalah Thoros of Myr.
+
+228
+00:16:02,100 --> 00:16:05,000
+Pendeta tertinggi memberimu sebuah misi.
+
+229
+00:16:05,606 --> 00:16:09,000
+mengalihkan Raja Robert dari para dewa
+dan mengarahkannya pada Lord of Light
+
+230
+00:16:09,887 --> 00:16:11,100
+Apa yang terjadi?
+
+231
+00:16:11,640 --> 00:16:12,640
+Aku tidak berhasil.
+
+232
+00:16:13,499 --> 00:16:15,100
+Maksudmu, kau berhenti.
+
+233
+00:16:16,062 --> 00:16:18,600
+Penyembah berhala saling membantai
+dan kau terus-terusan mabuk
+
+234
+00:16:19,745 --> 00:16:24,200
+Kau menyembah-Nya dengan caramu,
+dan aku menyembah-Nya dengan caraku sendiri.
+
+235
+00:16:25,317 --> 00:16:28,000
+Apa kau bisa bicara
+bahasa umum?
+
+236
+00:16:28,632 --> 00:16:31,568
+Teman-temanku di sini
+tidak berbicara High Valyrian.
+
+237
+00:16:33,204 --> 00:16:35,338
+<i>Mengapa kau ada di sini,
+my lady?</i>
+
+238
+00:16:47,952 --> 00:16:50,053
+Maafkan sikapku.
+
+239
+00:16:51,155 --> 00:16:53,089
+belakangan ini aku jarang
+bertemu wanita.
+
+240
+00:16:53,124 --> 00:16:54,991
+Beruntunglah para wanita.
+
+241
+00:17:24,454 --> 00:17:26,555
+Sudah berapa kali
+The Lord menghidupkannya kembali?
+
+242
+00:17:26,590 --> 00:17:28,424
+Enam kali.
+
+243
+00:17:30,810 --> 00:17:32,500
+Itu tidak mungkin.
+
+244
+00:17:33,749 --> 00:17:35,900
+The Lord telah tersenyum padaku.
+
+245
+00:17:37,523 --> 00:17:39,200
+Seharusnya kau tidak mempunyai
+kekuatan ini.
+
+246
+00:17:39,606 --> 00:17:41,000
+Aku tidak punya kekuatan apa-apa.
+
+247
+00:17:42,471 --> 00:17:44,500
+Aku memohon pada The Lord akan
+kemurahan hati-Nya,
+
+248
+00:17:45,415 --> 00:17:46,415
+dan Dia menjawabnya sesuai
+kehendak.
+
+249
+00:17:53,918 --> 00:17:56,320
+Aku adalah pendeta yang buruk
+
+250
+00:17:57,622 --> 00:18:00,224
+Minum terlalu banyak rum.
+
+251
+00:18:00,258 --> 00:18:02,359
+Meniduri semua pelacur
+di King's Landing.
+
+252
+00:18:02,393 --> 00:18:05,095
+Ini hal yang buruk untuk dikatakan,
+
+253
+00:18:05,129 --> 00:18:09,031
+tetapi pada saat aku datang
+ke Westeros, aku tidak percaya pada Lord kita.
+
+254
+00:18:11,768 --> 00:18:14,536
+aku memutuskan bahwa Dia,
+bahwa semua dewa,
+
+255
+00:18:14,571 --> 00:18:18,107
+<i>adalah cerita kita pada anak-anak
+untuk mengatur perilaku mereka.</i>
+
+256
+00:18:19,909 --> 00:18:22,879
+Jadi aku mengenakan jubah dan 
+setiap saat aku akan melafalkan doa-doa,
+
+257
+00:18:22,913 --> 00:18:25,982
+tapi hanya untuk pertunjukan.
+
+258
+00:18:27,752 --> 00:18:30,721
+Tontonan
+untuk penduduk setempat.
+
+259
+00:18:30,755 --> 00:18:34,191
+Sampai The Mountain menusukkan
+tombak ke jantung orang ini.
+
+260
+00:18:38,430 --> 00:18:41,733
+Aku berlutut di samping
+tubuh dinginnya
+
+261
+00:18:41,767 --> 00:18:43,568
+dan berdoa.
+
+262
+00:18:43,602 --> 00:18:46,304
+Bukan karena aku percaya, tapi...
+
+263
+00:18:48,674 --> 00:18:51,577
+dia adalah temanku
+
+264
+00:18:51,611 --> 00:18:53,913
+dan dia sudah mati.
+
+265
+00:18:55,115 --> 00:18:57,050
+Dan hanya
+kata-kata itu yang kutahu.
+
+266
+00:18:58,585 --> 00:19:01,587
+Dan untuk pertama kalinya
+dalam hidupku, The Lord menjawab.
+
+267
+00:19:03,823 --> 00:19:05,924
+Mata Beric terbuka.
+
+268
+00:19:05,959 --> 00:19:08,693
+<i>dan aku tahu yang sebenarnya.</i>
+
+269
+00:19:08,728 --> 00:19:11,730
+Tuhan kita
+adalah satu-satunya yang benar.
+
+270
+00:19:14,066 --> 00:19:16,467
+Dan semua orang
+harus melayani Dia.
+
+271
+00:19:23,542 --> 00:19:26,545
+Kau sudah pernah
+ke sisi lain.
+
+272
+00:19:27,413 --> 00:19:29,548
+Sisi lain?
+
+273
+00:19:30,650 --> 00:19:33,452
+Tidak ada sisi lain.
+
+274
+00:19:34,554 --> 00:19:37,155
+aku sudah pernah ke kegelapan, Putri.
+
+275
+00:19:41,127 --> 00:19:43,963
+Dia mengutusmu kepada kami
+karena suatu alasan.
+
+276
+00:19:45,432 --> 00:19:47,767
+kau memiliki seseorang
+yang Dia inginkan.
+
+277
+00:19:49,203 --> 00:19:51,638
+Bodkin Point.
+
+278
+00:19:51,672 --> 00:19:54,575
+Menembus pelat
+pada 200 yards.
+
+279
+00:19:58,413 --> 00:20:00,448
+Kau bisa membuatnya?
+
+280
+00:20:00,482 --> 00:20:02,850
+Ya, tidak ada yang sulit.
+
+281
+00:20:02,885 --> 00:20:05,186
+Hanya perlu besi yang layak.
+
+282
+00:20:05,220 --> 00:20:06,520
+Aku akan memberimu besinya.
+
+283
+00:20:06,555 --> 00:20:08,790
+<i>Ayolah.</i>
+
+284
+00:20:10,326 --> 00:20:12,060
+<i>aku tidak suka wanita itu.</i>
+
+285
+00:20:14,364 --> 00:20:16,932
+Itu karena
+kau seorang gadis.
+
+286
+00:20:16,966 --> 00:20:18,700
+Apa hubungannya?
+
+287
+00:20:24,974 --> 00:20:26,574
+Maafkan aku, Nak.
+
+288
+00:20:30,679 --> 00:20:33,447
+Apa yang kau lakukan?
+Lepaskan dia.
+
+289
+00:20:33,482 --> 00:20:35,116
+- Katakan kepada mereka untuk berhenti.
+- Ayolah.
+
+290
+00:20:35,150 --> 00:20:36,950
+Dia ingin menjadi salah satu dari kalian
+
+291
+00:20:36,985 --> 00:20:39,252
+Dia ingin bergabung dengan Brotherhood.
+Hentikan mereka!
+
+292
+00:20:39,287 --> 00:20:41,454
+Kami melayani
+Lord of Light
+
+293
+00:20:41,489 --> 00:20:43,690
+dan Lord of Light
+membutuhkan anak ini.
+
+294
+00:20:43,724 --> 00:20:46,326
+Apakah Lord of Light yang
+memberitahumu atau apakah dia?
+
+295
+00:20:52,333 --> 00:20:55,435
+kau tidak melakukan ini
+untuk Tuhanmu.
+
+296
+00:20:55,469 --> 00:20:57,137
+kau melakukannya untuk emas.
+
+297
+00:20:57,171 --> 00:20:59,339
+Kami melakukannya
+untuk keduanya, nak.
+
+298
+00:21:00,708 --> 00:21:02,543
+Kita tak bisa membela rakyat
+tanpa senjata
+
+299
+00:21:02,577 --> 00:21:04,845
+dan kuda dan makanan.
+
+300
+00:21:04,880 --> 00:21:08,550
+Dan kita tak bisa mendapatkan senjata
+dan kuda dan makanan, tanpa emas.
+
+301
+00:21:08,584 --> 00:21:11,519
+Kau bilang
+ini adalah sebuah Brotherhood.
+
+302
+00:21:11,553 --> 00:21:14,022
+Kau bilang
+Aku bisa menjadi salah satu dari kalian
+
+303
+00:21:20,497 --> 00:21:22,665
+kau bisa menjadi lebih dari mereka.
+
+304
+00:21:22,699 --> 00:21:25,567
+Mereka hanya prajurit rendahan
+dalam perang besar.
+
+305
+00:21:25,602 --> 00:21:28,237
+kau akan membuat raja
+bangkit dan jatuh.
+
+306
+00:21:40,016 --> 00:21:43,185
+Kau penyihir.
+Kau akan menyakitinya.
+
+307
+00:21:48,258 --> 00:21:50,459
+aku melihat kegelapan di dirimu.
+
+308
+00:21:52,095 --> 00:21:54,930
+Dan dalam kegelapan itu,
+mata menatap ke arahku--
+
+309
+00:21:54,965 --> 00:21:56,966
+mata cokelat,
+
+310
+00:21:57,000 --> 00:22:00,270
+mata biru,
+mata hijau.
+
+311
+00:22:00,304 --> 00:22:03,473
+Mata yang akan kau tutup selamanya.
+
+312
+00:22:06,912 --> 00:22:09,013
+Kita akan bertemu lagi.
+
+313
+00:23:24,292 --> 00:23:26,960
+kau menatap pantatku,
+Jon Snow?
+
+314
+00:23:37,071 --> 00:23:38,738
+kau baik-baik saja?
+
+315
+00:23:42,209 --> 00:23:44,710
+Hanya ingin lihat jika kau bisa
+menerima pukulan, Nak.
+
+316
+00:23:58,325 --> 00:24:01,427
+Maaf.
+Apa kau sedang tidur?
+
+317
+00:24:01,461 --> 00:24:03,529
+A--
+
+318
+00:24:05,165 --> 00:24:08,601
+A--? A--?
+
+319
+00:24:09,737 --> 00:24:11,538
+Air?
+
+320
+00:24:11,572 --> 00:24:13,607
+kau ingin air.
+
+321
+00:24:16,144 --> 00:24:18,679
+Aku berharap aku punya
+sedikit untukmu.
+
+322
+00:24:32,662 --> 00:24:35,063
+Mari kita bermain.
+
+323
+00:24:36,232 --> 00:24:39,468
+Bagian tubuh mana yang 
+paling tak kau perlukan?
+
+324
+00:24:41,071 --> 00:24:44,540
+- Kumohon.
+- Kumohon bukanlah bagian tubuh.
+
+325
+00:24:44,575 --> 00:24:46,876
+Aku akan menceritakan semuanya,
+kumohon.
+
+326
+00:24:46,910 --> 00:24:51,447
+Tapi kau sudah
+menceritakan semuanya.
+
+327
+00:24:51,482 --> 00:24:53,983
+<i>Ingat?</i>
+
+328
+00:24:54,017 --> 00:24:56,453
+Ayahmu jahat kepadamu.
+
+329
+00:24:56,487 --> 00:24:59,823
+Para Starks tidak
+menghargaimu.
+
+330
+00:25:00,891 --> 00:25:03,460
+Meski begitu, ada baiknya.
+
+331
+00:25:03,494 --> 00:25:05,695
+Anak-anak Stark,
+
+332
+00:25:05,729 --> 00:25:08,431
+mereka masih hidup.
+
+333
+00:25:09,566 --> 00:25:13,568
+Bukankah itu akan jadi
+perburuan yang hebat?
+
+334
+00:25:13,602 --> 00:25:17,539
+kau gagal, tapi aku pemburu
+yang lebih baik darimu.
+
+335
+00:25:19,275 --> 00:25:21,276
+<i>Sekarang...</i>
+
+336
+00:25:21,310 --> 00:25:23,278
+bagaimana dengan
+jari kelingkingmu?
+
+337
+00:25:23,313 --> 00:25:25,147
+kau tidak terlalu memerlukannya, kan?
+
+338
+00:25:25,181 --> 00:25:28,350
+Tidak? Baik.
+Mari kita mulai dengan itu.
+
+339
+00:25:38,395 --> 00:25:41,063
+kau sudah bertanya-tanya
+kenapa kau di sini.
+
+340
+00:25:41,097 --> 00:25:43,599
+<i>Benarkan?</i>
+
+341
+00:25:43,633 --> 00:25:45,467
+<i>mana kau berada.</i>
+
+342
+00:25:45,502 --> 00:25:47,269
+Siapa aku.
+
+343
+00:25:47,304 --> 00:25:50,105
+Mengapa aku melakukan
+ini kepadamu.
+
+344
+00:25:51,708 --> 00:25:53,943
+Jadi kurasa.
+
+345
+00:25:53,977 --> 00:25:56,212
+<i>Jika kau menebak dengan benar,</i>
+
+346
+00:25:56,246 --> 00:25:57,813
+Aku akan memberitahumu.
+
+347
+00:25:57,848 --> 00:26:00,816
+Demi para dewa lama
+dan baru, aku bersumpah.
+
+348
+00:26:02,752 --> 00:26:04,253
+Kau menang
+
+349
+00:26:04,287 --> 00:26:06,355
+jika kau bisa
+mencari tahu siapa aku
+
+350
+00:26:06,389 --> 00:26:07,923
+dan mengapa
+Aku menyiksamu
+
+351
+00:26:07,958 --> 00:26:11,293
+dan aku memenangkan permainan jika kau memohon
+untuk memotong jarimu.
+
+352
+00:26:13,196 --> 00:26:16,966
+Jika aku menang,
+kau akan membiarkanku pergi?
+
+353
+00:26:19,002 --> 00:26:21,770
+Jika kau pikir ini memiliki
+akhir yang bahagia,
+
+354
+00:26:21,804 --> 00:26:24,806
+kau belum
+memperhatikan.
+
+355
+00:26:24,840 --> 00:26:26,474
+Tolong.
+
+356
+00:26:26,509 --> 00:26:30,445
+Bilang tolong lagi dan kau akan berharap 
+kau tak pernah mengatakannya.
+
+357
+00:26:33,882 --> 00:26:36,050
+kau duluan.
+
+358
+00:26:36,084 --> 00:26:38,185
+Dimana kita?
+
+359
+00:26:39,187 --> 00:26:41,789
+- Utara.
+- Terlalu samar-samar.
+
+360
+00:26:41,823 --> 00:26:43,457
+Deepwood Motte.
+
+361
+00:26:45,694 --> 00:26:47,928
+Tebakan yang buruk.
+
+362
+00:26:55,604 --> 00:26:58,139
+Sekarang, mana?
+
+363
+00:26:59,075 --> 00:27:01,143
+Last Hearth.
+
+364
+00:27:01,177 --> 00:27:04,246
+Apa bagimu aku terlihat seperti
+seorang Umber sialan
+
+365
+00:27:07,350 --> 00:27:09,451
+Karhold!
+
+366
+00:27:16,258 --> 00:27:17,992
+Karhold?
+
+367
+00:27:20,796 --> 00:27:22,730
+Bagaimana kau tahu?
+
+368
+00:27:24,133 --> 00:27:27,169
+Apa kau melihat banner
+ketika kita masuk?
+
+369
+00:27:27,203 --> 00:27:28,803
+Tidak.
+
+370
+00:27:28,838 --> 00:27:31,406
+Hanya tebakan.
+
+371
+00:27:31,441 --> 00:27:34,944
+Sangat baik, Lord Theon.
+
+372
+00:27:37,481 --> 00:27:38,881
+Dan siapakah aku?
+
+373
+00:27:40,117 --> 00:27:42,084
+Torrhen Karstark.
+
+374
+00:27:42,119 --> 00:27:44,020
+Dia sudah mati.
+
+375
+00:27:44,054 --> 00:27:46,656
+Dicekik oleh Kingslayer.
+
+376
+00:27:48,458 --> 00:27:50,993
+Dia adalah saudaramu.
+
+377
+00:27:55,331 --> 00:27:59,768
+Ayahmu
+adalah Lord Rickard Karstark.
+
+378
+00:28:08,310 --> 00:28:11,545
+- kau bersumpah untuk memberitahu jika aku--
+- Kau benar.
+
+379
+00:28:13,381 --> 00:28:17,217
+Lord Rickard Karstark
+adalah Robb Stark Panji.
+
+380
+00:28:17,251 --> 00:28:19,185
+<i>aku mengkhianati Robb.</i>
+
+381
+00:28:19,220 --> 00:28:22,822
+Itu mengapa kau menyiksaku.
+
+382
+00:28:24,992 --> 00:28:26,793
+Ya.
+
+383
+00:28:30,264 --> 00:28:31,965
+Kau menang.
+
+384
+00:28:42,343 --> 00:28:46,012
+Tentu saja, kau lupa
+menanyakan satu hal.
+
+385
+00:28:46,046 --> 00:28:49,549
+kau lupa untuk bertanya
+jika aku bohong.
+
+386
+00:28:55,323 --> 00:28:57,958
+Takutnya, aku seorang pembohong.
+
+387
+00:28:59,927 --> 00:29:03,163
+Semua yang aku katakan
+adalah dusta.
+
+388
+00:29:05,867 --> 00:29:08,670
+Ini tidak terjadi
+padamu karena suatu alasan.
+
+389
+00:29:08,704 --> 00:29:12,440
+Well, satu alasan--
+aku menikmatinya.
+
+390
+00:29:12,475 --> 00:29:15,711
+Kumohon, potong!
+Potong! Potong!
+
+391
+00:29:21,851 --> 00:29:23,452
+Aku menang.
+
+392
+00:29:23,486 --> 00:29:26,155
+Terima kasih sudah
+tiba disini dengan cepat.
+
+393
+00:29:26,189 --> 00:29:28,690
+Aku tahu belakangan ini
+tidak mudah untuk melakukan perjalanan.
+
+394
+00:29:28,725 --> 00:29:31,460
+Jalan-jalan dipenuhi dengan
+dengan perampok dan bandit.
+
+395
+00:29:31,494 --> 00:29:34,964
+Tapi ketika raja dari Utara
+memanggil, kami datang.
+
+396
+00:29:34,998 --> 00:29:37,399
+<i>Ayah kami menyuruh kami
+untuk memberitahumu</i>
+
+397
+00:29:37,434 --> 00:29:40,169
+bahwa aliansi
+dengan wilayah Utara dapat berlanjut
+
+398
+00:29:40,203 --> 00:29:42,872
+jika syaratnya terpenuhi.
+
+399
+00:29:42,906 --> 00:29:45,841
+Lord Frey menuntut
+permintaan maaf resmi
+
+400
+00:29:45,876 --> 00:29:47,877
+atas pelanggaran
+akan sumpah suci dirimu
+
+401
+00:29:47,911 --> 00:29:49,245
+untuk menikahi salah satu
+putri-putrinya.
+
+402
+00:29:49,279 --> 00:29:52,381
+Tentu saja. Dia layak mendapatkannya.
+Aku berada di pihak salah.
+
+403
+00:29:52,416 --> 00:29:54,850
+Sebagai ganti rugi
+untuk pengkhianatan ini,
+
+404
+00:29:54,885 --> 00:29:57,987
+<i>ia menuntut Harrenhal
+dan semua lahan yang menyertainya.</i>
+
+405
+00:29:58,021 --> 00:30:01,356
+- aku tidak berpikir ltu--
+- Kami berjuang untuk wilayah Utara.
+
+406
+00:30:02,392 --> 00:30:04,359
+Harrenhal bukan di wilayah
+di Utara.
+
+407
+00:30:04,393 --> 00:30:08,063
+Itu adalah miliknya
+setelah perang berakhir
+
+408
+00:30:08,097 --> 00:30:10,732
+dan kami tidak memiliki
+kepentingan strategi lagi.
+
+409
+00:30:11,667 --> 00:30:14,568
+Dan ada
+sesuatu yang lain.
+
+410
+00:30:14,603 --> 00:30:17,404
+Kami akan melakukan apa yang kita bisa
+untuk memberikan apa yang Lord Frey inginkan.
+
+411
+00:30:17,439 --> 00:30:21,008
+Bukan apa, tapi siapa.
+
+412
+00:30:22,578 --> 00:30:24,412
+Apa?
+
+413
+00:30:28,317 --> 00:30:31,386
+Tidak.
+
+414
+00:30:31,420 --> 00:30:33,655
+Ayah kami membutuhkan
+Lord Edmure untuk menikahi
+
+415
+00:30:33,689 --> 00:30:35,624
+salah satu putrinya -
+Roslin.
+
+416
+00:30:35,658 --> 00:30:37,493
+Berapa umurnya?
+
+417
+00:30:37,527 --> 00:30:38,761
+19.
+
+418
+00:30:38,795 --> 00:30:40,362
+Bolehkah aku bertemu 
+dulu dengannya?
+
+419
+00:30:40,396 --> 00:30:41,530
+kau ingin menghitung
+giginya?
+
+420
+00:30:41,564 --> 00:30:44,299
+<i>Kami berangkat ke Twins
+di pagi hari.</i>
+
+421
+00:30:44,334 --> 00:30:46,368
+<i>Kami butuh jawaban
+sebelum kami pergi</i>
+
+422
+00:30:46,402 --> 00:30:48,102
+dan pernikahan tidak lebih
+dari dua minggu sesudahnya
+
+423
+00:30:48,137 --> 00:30:50,171
+atau aliansi ini berakhir.
+
+424
+00:30:50,205 --> 00:30:52,774
+Ayahmu sadar
+kita sedang berperang?
+
+425
+00:30:52,808 --> 00:30:55,476
+Ayah sudah tua.
+
+426
+00:30:55,510 --> 00:30:57,511
+Hal ini akan membuat
+hatinya damai
+
+427
+00:30:57,545 --> 00:31:00,413
+jika ia bisa melihat putrinya menikah
+dengan suami yang baik.
+
+428
+00:31:00,448 --> 00:31:03,283
+Dan pengalaman baru-baru ini
+telah membuatnya hati-hati
+
+429
+00:31:03,351 --> 00:31:05,219
+<i>pada pertunangan yang lama.</i>
+
+430
+00:31:05,253 --> 00:31:07,054
+Dia punya hak untuk itu.
+
+431
+00:31:07,088 --> 00:31:10,390
+Kami mohon ijin untuk
+membahas hal itu.
+
+432
+00:31:26,942 --> 00:31:30,511
+Mengapa aku harus membiarkan
+orang tua itu menentukan pasanganku?
+
+433
+00:31:30,546 --> 00:31:33,615
+Setidaknya, aku harus
+diberi pilihan yang sebanding denganmu.
+
+434
+00:31:33,649 --> 00:31:35,083
+Aku kepala dari bawahannya.
+
+435
+00:31:35,117 --> 00:31:37,318
+Dia pria dengan harga diri
+dan kita telah menyakiti hatinya
+
+436
+00:31:37,353 --> 00:31:39,320
+Bukan aku yang menyakitinya.
+
+437
+00:31:39,355 --> 00:31:40,989
+Jawabanku adalah tidak.
+
+438
+00:31:45,261 --> 00:31:46,961
+Dengarkan aku
+
+439
+00:31:46,996 --> 00:31:49,965
+dan mendengarkan dengan hati-hati.
+kau--
+
+440
+00:31:49,999 --> 00:31:52,701
+Hukum para dewa dan manusia
+sangat jelas.
+
+441
+00:31:52,735 --> 00:31:55,203
+Tidak ada orang yang dapat memaksa
+orang lain untuk menikah.
+
+442
+00:31:55,238 --> 00:31:57,806
+Hukum kepalan tanganku
+akan segera memaksa gigimu.
+
+443
+00:31:57,840 --> 00:32:01,042
+Tidak apa-apa.
+Kau dengar dia.
+
+444
+00:32:01,110 --> 00:32:04,279
+Jika kau menolak, aliansi kita dengan
+para Freys berakhir.
+
+445
+00:32:04,313 --> 00:32:07,715
+Dia menginginkanku untuk salah satu
+putri-putrinya sejak aku masih 12 tahun.
+
+446
+00:32:07,750 --> 00:32:10,518
+Dia tidak akan berhenti sekarang.
+
+447
+00:32:10,553 --> 00:32:12,921
+Ketika aku mengatakan tidak,
+dia akan kembali
+
+448
+00:32:12,955 --> 00:32:14,956
+dan menawarkanku untuk memilih
+sendiri putri yang lain.
+
+449
+00:32:14,991 --> 00:32:16,825
+kau bersedia mengambil risiko
+kebebasan
+
+450
+00:32:16,859 --> 00:32:19,294
+dan kehidupan kita hanya demi kesempatan
+untuk mendapat istri yang lebih cantik?
+
+451
+00:32:19,328 --> 00:32:21,663
+aku punya perang untuk dilawan
+
+452
+00:32:21,697 --> 00:32:23,698
+Kita tidak bisa memenanginya
+tanpa mereka.
+
+453
+00:32:23,733 --> 00:32:25,567
+aku tak punya waktu untuk tawar-menawar.
+
+454
+00:32:25,601 --> 00:32:27,736
+Kau bilang kau menebus
+kesalahan di Stone Mill.
+
+455
+00:32:27,770 --> 00:32:31,674
+kau menyebutnya
+pertunangan heroik?
+
+456
+00:32:35,079 --> 00:32:38,615
+Aku punya sesuatu yang
+tidak terlalu permanen dalam pikiran.
+
+457
+00:32:38,649 --> 00:32:41,084
+Aku telah memenangkan setiap pertempuran,
+
+458
+00:32:41,118 --> 00:32:42,953
+tapi aku kalah dalam perang ini.
+
+459
+00:32:44,756 --> 00:32:47,958
+Jika kita tidak melakukan hal ini
+dan melakukannya sekarang,
+
+460
+00:32:47,992 --> 00:32:50,060
+kita kalah.
+
+461
+00:32:55,466 --> 00:32:57,334
+Aku akan menikahinya.
+
+462
+00:32:57,368 --> 00:33:00,270
+kau membayar
+dosa-dosaku, Paman.
+
+463
+00:33:00,304 --> 00:33:03,140
+Ini tidak adil atau benar.
+
+464
+00:33:03,174 --> 00:33:04,975
+Aku akan mengingatnya.
+
+465
+00:33:10,948 --> 00:33:12,616
+<i>Kulihat orang-orangku
+akhirnya menemukan</i>
+
+466
+00:33:12,650 --> 00:33:14,718
+<i>pakaian yang pantas
+untukmu.</i>
+
+467
+00:33:14,752 --> 00:33:18,655
+Ya. Mereka sangat baik.
+
+468
+00:33:18,689 --> 00:33:20,756
+Kau adalah bannerman keluarga Stark, 
+Lord Bolton.
+
+469
+00:33:20,791 --> 00:33:23,426
+aku bertindak atas
+Perintah Lady Stark
+
+470
+00:33:23,460 --> 00:33:25,461
+<i>untuk mengembalikan Jaime Lannister
+ke King's Landing.</i>
+
+471
+00:33:25,495 --> 00:33:29,097
+Ketika Raja Robb meninggalkan Harrenhal,
+ibunya adalah tawanannya.
+
+472
+00:33:29,132 --> 00:33:30,732
+Jika saja dia bukan ibunya,
+
+473
+00:33:30,766 --> 00:33:32,867
+<i>dia pasti sudah menggantungnya
+karena berkhianat.</i>
+
+474
+00:33:40,075 --> 00:33:42,342
+aku harus mengirimmu
+kembali ke Robb Stark.
+
+475
+00:33:42,376 --> 00:33:44,611
+kau harus.
+
+476
+00:33:44,646 --> 00:33:47,080
+Tapi sebaliknya,
+kau duduk di sini
+
+477
+00:33:47,115 --> 00:33:49,750
+melihatku gagal makan malam.
+
+478
+00:33:49,784 --> 00:33:51,952
+Mengapa?
+
+479
+00:33:51,986 --> 00:33:53,854
+Perang memerlukan uang.
+
+480
+00:33:53,888 --> 00:33:55,856
+Banyak orang yang akan membayar
+banyak untukmu.
+
+481
+00:33:55,890 --> 00:33:58,559
+Kita berdua tahu siapa
+yang akan membayar paling banyak.
+
+482
+00:34:00,095 --> 00:34:01,662
+<i>Atau membuatmu membayar mahal</i>
+
+483
+00:34:01,696 --> 00:34:03,363
+kalau dia tahu
+kau telah menangkapku
+
+484
+00:34:03,398 --> 00:34:05,632
+dan mengirimku kembali ke utara
+untuk di eksekusi.
+
+485
+00:34:05,667 --> 00:34:08,035
+Kau benar.
+
+486
+00:34:08,069 --> 00:34:11,872
+Mungkin hal yang paling aman adalah
+membunuh dan membakar tubuh kalian berdua
+
+487
+00:34:11,907 --> 00:34:13,841
+Mungkin saja,
+
+488
+00:34:13,876 --> 00:34:17,178
+jika kau benar-benar percaya ayahku
+ta kan pernah tahu tentang hal itu.
+
+489
+00:34:17,212 --> 00:34:19,880
+Raja Robb membuat
+ayahmu cukup sibuk.
+
+490
+00:34:19,915 --> 00:34:22,249
+Dia tak punya waktu
+untuk hal lain.
+
+491
+00:34:22,284 --> 00:34:24,452
+Dia akan punya waktu untukmu.
+
+492
+00:34:27,790 --> 00:34:29,290
+Segera setelah kau
+cukup sehat untuk bepergian,
+
+493
+00:34:29,325 --> 00:34:32,127
+<i>Aku akan mengizinkanmu
+untuk pergi ke King's Landing</i>
+
+494
+00:34:32,161 --> 00:34:35,664
+sebagai ganti atas kesalahan
+yang dibuat oleh prajuritku
+
+495
+00:34:35,699 --> 00:34:39,067
+Dan kau akan bersumpah untuk mengatakan
+kebenaran pada ayahmu,
+
+496
+00:34:39,102 --> 00:34:41,637
+bahwa aku tidak ada
+hubungan dengan cacatnya dirimu.
+
+497
+00:34:48,411 --> 00:34:51,079
+- Bagaimana kalau kita minum untuk itu?
+- aku tidak ikut serta.
+
+498
+00:34:52,916 --> 00:34:56,619
+kau harusnya mengerti betapa mencurigakan
+hal itu bagi sebagian orang?
+
+499
+00:34:58,088 --> 00:35:00,089
+Baiklah.
+
+500
+00:35:00,123 --> 00:35:02,158
+My lady,
+
+501
+00:35:02,192 --> 00:35:05,261
+semoga perjalanan kita berlanjut
+tanpa insiden tambahan
+
+502
+00:35:05,295 --> 00:35:07,029
+Oh, dia tidak akan
+pergi denganmu.
+
+503
+00:35:07,063 --> 00:35:09,765
+aku ditugaskan untuk
+membawa Ser Jaime ke--
+
+504
+00:35:09,799 --> 00:35:12,567
+<i>kau dituntut karena
+bersekongkol atas pengkhianatan.</i>
+
+505
+00:35:12,602 --> 00:35:14,736
+Kurasa, aku harus bersikeras.
+
+506
+00:35:14,770 --> 00:35:17,438
+<i>Kau tidak berhak
+bersikeras pada apa pun.</i>
+
+507
+00:35:17,472 --> 00:35:19,607
+aku berharap
+kau akan telah mendapat pelajaran
+
+508
+00:35:19,641 --> 00:35:23,477
+tentang melebih-lebihkan 
+posisimu yang sebenarnya.
+
+509
+00:35:27,449 --> 00:35:29,617
+<i>- Tidak mungkin.
+- Mengapa?</i>
+
+510
+00:35:29,651 --> 00:35:31,986
+Cucuku adalah kebanggaan
+dari Highgarden.
+
+511
+00:35:32,020 --> 00:35:35,156
+<i>Bujangan yang paling 
+di dambakan diseluruh Seven Kingdoms</i>
+
+512
+00:35:35,190 --> 00:35:37,792
+- Putrimu--
+- Kaya raya,
+
+513
+00:35:37,826 --> 00:35:41,562
+wanita paling cantik
+di seluruh Seven Kingdoms...
+
+514
+00:35:42,798 --> 00:35:44,598
+dan ibu dari raja.
+
+515
+00:35:44,633 --> 00:35:46,033
+Tua.
+
+516
+00:35:46,902 --> 00:35:47,902
+Tua?
+
+517
+00:35:47,936 --> 00:35:51,005
+Tua.
+
+518
+00:35:51,039 --> 00:35:53,507
+<i>aku semacam ahli
+akan hal tersebut.</i>
+
+519
+00:35:53,541 --> 00:35:56,143
+<i>tidak lama lagi
+dia akan menua.</i>
+
+520
+00:35:56,178 --> 00:35:59,680
+Aku akan menghindarkanmu dari rincian
+akan apa yang terjadi.
+
+521
+00:35:59,714 --> 00:36:02,416
+Kalian pria mungkin punya perut yang kuat
+menghadapi pertumpahan darah dan pembantaian.
+
+522
+00:36:02,450 --> 00:36:04,852
+tapi ini adalah hal yang
+sama sekali berbeda.
+
+523
+00:36:04,886 --> 00:36:08,522
+Kuyakinkan kau, bertambahnya
+umur juga berpengaruh pada kami.
+
+524
+00:36:10,759 --> 00:36:14,929
+Bagaimanapun, perutku tetap kuat.
+
+525
+00:36:14,963 --> 00:36:16,798
+Satu-satunya hal
+yang mungkin mengubahnya
+
+526
+00:36:16,832 --> 00:36:20,535
+adalah rincian atas kegiatan
+malam cucumu.
+
+527
+00:36:21,837 --> 00:36:23,771
+<i>- Apa kau menyangkalnya?
+- Oh, tidak sama sekali.</i>
+
+528
+00:36:23,805 --> 00:36:25,840
+Sebuah penelan 'pedang'
+keluar dan masuk.
+
+529
+00:36:25,874 --> 00:36:27,641
+Dan anak laki-laki
+dengan kemalangan seperti itu
+
+530
+00:36:27,676 --> 00:36:29,677
+harus bersyukur
+untuk kesempatan
+
+531
+00:36:29,711 --> 00:36:32,746
+<i>untuk menikahi wanita tercantik
+di kerajaan</i>
+
+532
+00:36:32,814 --> 00:36:34,647
+dan menghilangkan noda
+dari namanya.
+
+533
+00:36:34,682 --> 00:36:37,917
+Apa kau tumbuh besar
+bersama sepupu laki-laki, Lord Tywin?
+
+534
+00:36:37,951 --> 00:36:39,952
+Anak-anak dari bannerman
+ayahmu,
+
+535
+00:36:39,987 --> 00:36:41,821
+calon ksatria, anak pengurus kandang?
+
+536
+00:36:41,855 --> 00:36:44,156
+Tentu saja.
+
+537
+00:36:44,190 --> 00:36:47,359
+Dan kau tidak pernah...
+
+538
+00:36:47,394 --> 00:36:49,428
+Tidak.
+
+539
+00:36:49,462 --> 00:36:51,463
+Sama sekali?
+
+540
+00:36:51,498 --> 00:36:53,065
+Tidak dengan cara apapun?
+
+541
+00:36:53,099 --> 00:36:54,967
+Tidak pernah.
+
+542
+00:36:55,001 --> 00:36:57,937
+aku mengucapkan selamat atas
+pengendalian dirimu.
+
+543
+00:36:58,004 --> 00:37:00,239
+Tapi itu hal yang wajar,
+dua anak laki-laki bermain
+
+544
+00:37:00,273 --> 00:37:01,907
+satu sama lain
+di bawah seprai.
+
+545
+00:37:01,941 --> 00:37:04,510
+Mungkin Highgarden
+memiliki toleransi yang tinggi
+
+546
+00:37:04,544 --> 00:37:06,445
+untuk perilaku yang tidak wajar.
+
+547
+00:37:06,479 --> 00:37:07,913
+<i>aku tidak akan mengatakan itu.</i>
+
+548
+00:37:07,948 --> 00:37:10,216
+Benar, kami tidak terlalu
+mempersoalkan
+
+549
+00:37:10,250 --> 00:37:13,419
+akan persetubuhan
+dua laki-laki, tapi...
+
+550
+00:37:15,088 --> 00:37:17,190
+saudara dan saudari--
+
+551
+00:37:18,559 --> 00:37:20,760
+di mana aku berasal,
+noda itu
+
+552
+00:37:20,795 --> 00:37:23,263
+akan sangat sulit
+untuk dibersihkan.
+
+553
+00:37:23,297 --> 00:37:25,899
+Aku tidak akan
+meneruskan
+
+554
+00:37:25,934 --> 00:37:28,335
+sebuah kebohongan yang jahat
+dengan membahas hal itu.
+
+555
+00:37:30,205 --> 00:37:31,972
+Berbohong atau tidak,
+
+556
+00:37:32,006 --> 00:37:35,142
+kau harus mengakui banyak orang
+merasa itu cukup meyakinkan.
+
+557
+00:37:35,177 --> 00:37:37,712
+Cukup meyakinkan
+untuk menaruh pedang di tangan mereka
+
+558
+00:37:37,746 --> 00:37:39,780
+dan mengirim mereka
+untuk membunuh para Lannister
+
+559
+00:37:39,815 --> 00:37:42,850
+dan para Tyrells, terima kasih pada
+afiliasi baru kita.
+
+560
+00:37:42,884 --> 00:37:44,952
+aku tak peduli
+apa yang orang percaya.
+
+561
+00:37:44,986 --> 00:37:47,821
+Dan sebaiknya kau juga.
+
+562
+00:37:47,856 --> 00:37:51,425
+Sebagai penguasa atas diriku sendiri,
+aku tidak setuju.
+
+563
+00:37:51,493 --> 00:37:55,630
+Sekarang, jika rumor tentang
+anak-anakku benar,
+
+564
+00:37:55,664 --> 00:37:58,566
+kemudian Joffrey
+sama sekali bukan keturunan raja
+
+565
+00:37:58,600 --> 00:38:02,770
+dan House Tyrell membuang
+bunga berharga ke lumpur.
+
+566
+00:38:02,805 --> 00:38:06,508
+Dan jika Cersei terlalu tua
+untuk memberikan anak pada Loras,
+
+567
+00:38:06,542 --> 00:38:10,712
+kami melemparkan
+bunga berharga yang lain ke lumpur.
+
+568
+00:38:10,747 --> 00:38:14,283
+Itu resiko yang tak bisa kami ambil.
+
+569
+00:38:14,317 --> 00:38:16,852
+Ketidakpastian
+membuatmu tidak nyaman.
+
+570
+00:38:18,255 --> 00:38:20,089
+Baik.
+
+571
+00:38:20,123 --> 00:38:22,657
+aku akan menghapusnya untukmu.
+
+572
+00:38:22,692 --> 00:38:25,493
+Jika kau menolak untuk menikahkan
+Loras ke Cersei,
+
+573
+00:38:25,528 --> 00:38:28,396
+Aku akan menjadikannya
+seorang Kingsguard.
+
+574
+00:38:28,430 --> 00:38:31,865
+<i>aku yakin kau familiar dengan
+sumpah Kingsguard.</i>
+
+575
+00:38:31,900 --> 00:38:33,900
+Dia tidak akan pernah menikah.
+
+576
+00:38:33,935 --> 00:38:35,735
+- Dia tidak akan pernah memiliki anak.
+- Oh...
+
+577
+00:38:35,770 --> 00:38:37,670
+<i>Nama Tyrell
+akan memudar.</i>
+
+578
+00:38:37,705 --> 00:38:40,373
+Dan Highgarden menjadi
+milik keturunan
+
+579
+00:38:40,407 --> 00:38:41,908
+dari Joffrey
+dan Margaery.
+
+580
+00:38:41,942 --> 00:38:44,411
+kau akan membiarkan
+cucumu dilindungi
+
+581
+00:38:44,445 --> 00:38:46,280
+oleh seseorang
+yang jijik padamu?
+
+582
+00:38:46,314 --> 00:38:49,917
+Aku mendapatkan cucuku
+dilindungi oleh seorang ksatria terlatih
+
+583
+00:38:49,951 --> 00:38:53,288
+yang memegang sumpahnya
+dengan sungguh-sungguh.
+
+584
+00:38:53,322 --> 00:38:56,157
+Jadi, haruskah aku menyusun
+perintah?
+
+585
+00:38:57,693 --> 00:39:00,095
+Atau apa kau menyetujui
+pernikahan ini?
+
+586
+00:39:04,766 --> 00:39:06,800
+Ini hal yang cukup langka--
+
+587
+00:39:06,868 --> 00:39:10,738
+seorang pria yang bertindak sesuai
+dengan reputasinya.
+
+588
+00:40:03,589 --> 00:40:04,923
+Tidak!
+
+589
+00:40:24,511 --> 00:40:26,312
+Kita harus memotong talinya!
+
+590
+00:40:26,346 --> 00:40:28,614
+Tidak!
+
+591
+00:41:14,095 --> 00:41:15,862
+Pegang tanganku!
+
+592
+00:41:51,734 --> 00:41:53,802
+<i>pin yang indah.</i>
+
+593
+00:41:53,836 --> 00:41:57,339
+Oh, ini sebenarnya sebuah bros.
+
+594
+00:42:00,610 --> 00:42:04,046
+Meskipun kurasa bros
+adalah semacam pin, jadi...
+
+595
+00:42:09,219 --> 00:42:12,754
+aku sangat senang tentang...
+
+596
+00:42:12,788 --> 00:42:14,589
+Eh, ya.
+
+597
+00:42:14,624 --> 00:42:16,791
+A-Aku juga.
+
+598
+00:42:19,095 --> 00:42:21,129
+Aku merasa seperti
+sedang bermimpi.
+
+599
+00:42:21,164 --> 00:42:24,934
+Ya, aku juga.
+Tentu saja.
+
+600
+00:42:24,968 --> 00:42:27,503
+aku sudah memimpikan pernikahan besar
+sejak aku masih sangat muda.
+
+601
+00:42:27,538 --> 00:42:28,738
+Para tamu,
+
+602
+00:42:28,772 --> 00:42:31,941
+makanan,
+turnamen.
+
+603
+00:42:35,013 --> 00:42:37,548
+Dan pengantin,
+tentu saja.
+
+604
+00:42:41,353 --> 00:42:43,988
+Pengantin paling cantik
+di dunia
+
+605
+00:42:44,022 --> 00:42:45,622
+dengan gaun indah yang
+terbuat dari
+
+606
+00:42:45,657 --> 00:42:48,225
+kain brokat emas dan hijau
+dengan lengan berumbai.
+
+607
+00:42:50,662 --> 00:42:52,897
+Kau pernah ke Highgarden, my lady?
+
+608
+00:42:54,032 --> 00:42:55,666
+Tidak, aku tidak pernah
+meninggalkan Winterfell
+
+609
+00:42:55,700 --> 00:42:58,703
+sebelum aku datang
+ke King's Landing.
+
+610
+00:42:58,737 --> 00:43:00,304
+Tapi kedengarannya indah.
+
+611
+00:43:00,339 --> 00:43:02,940
+aku tidak sabar untuk melihatnya.
+
+612
+00:43:02,975 --> 00:43:05,076
+Dan untuk meninggalkan tempat ini.
+
+613
+00:43:06,178 --> 00:43:07,946
+Mengerikan, bukan?
+
+614
+00:43:10,449 --> 00:43:12,951
+Tempat yang paling mengerikan.
+
+615
+00:43:22,462 --> 00:43:25,697
+<i>Kurasa tidak ada yang bisa 
+kita lakukan tentang ini.</i>
+
+616
+00:43:25,731 --> 00:43:27,999
+Kita dapat membunuh keduanya.
+
+617
+00:43:29,802 --> 00:43:31,769
+Sulit untuk mengatakan
+siapa dari kita berempat
+
+618
+00:43:31,804 --> 00:43:34,806
+yang bernasib paling buruk
+karena pengaturan ini.
+
+619
+00:43:34,840 --> 00:43:36,774
+Mungkin Sansa.
+
+620
+00:43:36,809 --> 00:43:38,643
+Meskipun akan tiba saatnya
+bagi Loras untuk mengerti
+
+621
+00:43:38,677 --> 00:43:41,446
+arti sebuah penderitaan yang mendalam 
+dan luar biasa.
+
+622
+00:43:41,480 --> 00:43:44,216
+Ayah tidak pilih kasih.
+
+623
+00:43:44,250 --> 00:43:47,086
+Kita semua sedang dikirim
+ke neraka bersama-sama.
+
+624
+00:43:47,120 --> 00:43:49,221
+Pada perahu yang kau buat.
+
+625
+00:43:49,256 --> 00:43:52,292
+Para Tyrells yang merencanakan
+untuk merusak keluarga kita.
+
+626
+00:43:52,326 --> 00:43:54,862
+aku melakukannya
+untuk melindungi keluarga kita.
+
+627
+00:43:54,896 --> 00:43:56,997
+Aku keluargamu.
+
+628
+00:43:57,932 --> 00:43:59,967
+Seorang anggota keluargamu
+
+629
+00:44:00,001 --> 00:44:03,037
+yang telah secara aktif memberikan kontribusi
+bagi kelangsungan hidup keluarga tersebut.
+
+630
+00:44:04,105 --> 00:44:05,872
+Entah apakah kau atau ayah
+
+631
+00:44:05,907 --> 00:44:07,908
+atau orang lain mau mengakuinya.
+
+632
+00:44:07,943 --> 00:44:10,244
+aku mengakuinya.
+
+633
+00:44:10,278 --> 00:44:12,913
+Jika bukan karena trikmu
+dengan api,
+
+634
+00:44:12,948 --> 00:44:16,250
+Stannis merebut kota sebelum
+ayah tiba disini.
+
+635
+00:44:16,284 --> 00:44:19,353
+<i>kepala kita masih akan
+membusuk di gerbang kota.</i>
+
+636
+00:44:19,388 --> 00:44:23,724
+Mencoba untuk membunuhku adalah
+cara yang aneh untuk berterima kasih.
+
+637
+00:44:25,861 --> 00:44:27,929
+Ada dua orang
+di King's Landing
+
+638
+00:44:27,963 --> 00:44:30,130
+yang dapat memberikan perintah
+kepada seorang Kingsguard.
+
+639
+00:44:30,165 --> 00:44:33,134
+Apakah kau memerintahkan Ser Mandon
+
+640
+00:44:33,168 --> 00:44:36,070
+<i>untuk membunuhku sewaktu Pertempuran
+di Blackwater?</i>
+
+641
+00:44:45,646 --> 00:44:48,081
+Aku mengerti dorongan hatinya.
+
+642
+00:44:49,284 --> 00:44:52,219
+Dia benci padaku
+karena aku satu-satunya
+
+643
+00:44:52,253 --> 00:44:55,122
+yang memberitahu dia
+siapa dia sebenarnya.
+
+644
+00:44:57,992 --> 00:45:02,429
+Jadi, cukup adil.
+Dia ingin aku mati.
+
+645
+00:45:02,464 --> 00:45:04,465
+Tapi kebodohannya?
+
+646
+00:45:04,499 --> 00:45:08,502
+Dia bisa meracuniku
+dan tak seorang pun akan tahu.
+
+647
+00:45:08,537 --> 00:45:12,005
+Tetapi seorang raja
+memerintahkan seorang Kingsguard
+
+648
+00:45:12,040 --> 00:45:14,208
+untuk membunuh
+The Hand of the King
+
+649
+00:45:14,242 --> 00:45:16,143
+didepan seluruh pasukannya sendiri.
+
+650
+00:45:16,177 --> 00:45:17,711
+Anak itu idiot.
+
+651
+00:45:17,746 --> 00:45:19,146
+Apa yang kau
+ingin kukatakan?
+
+652
+00:45:19,180 --> 00:45:22,182
+Aku ingin kau katakan padaku jika hidupku
+masih dalam bahaya.
+
+653
+00:45:22,217 --> 00:45:23,951
+Mungkin.
+
+654
+00:45:23,985 --> 00:45:25,686
+Tapi bukan dari Joffrey.
+
+655
+00:45:25,721 --> 00:45:27,888
+Dia tak akan melakukan apa-apa,
+sekarang ayah ada disini.
+
+656
+00:45:29,558 --> 00:45:32,160
+Seven Kingdoms
+bersatu dalam ketakutan
+
+657
+00:45:32,194 --> 00:45:34,328
+pada Tywin Lannister.
+
+658
+00:45:34,363 --> 00:45:36,731
+Bukan Para Tyrells.
+
+659
+00:45:36,765 --> 00:45:38,800
+Tak lama lagi mereka tidak perlu
+takut padanya.
+
+660
+00:45:38,834 --> 00:45:40,268
+Joffrey akan menjadi milik
+Margaery,
+
+661
+00:45:40,302 --> 00:45:42,203
+si pelacur kecil bermata kelinci.
+
+662
+00:45:42,237 --> 00:45:45,239
+Dan begitu juga anak-anaknya
+dan anak-anak mereka.
+
+663
+00:45:45,274 --> 00:45:47,509
+Sejarah akan diambil
+dari tangan kita.
+
+664
+00:45:49,512 --> 00:45:52,080
+Setidaknya, kau bisa
+melarikan diri.
+
+665
+00:45:52,114 --> 00:45:53,748
+Setelah Jaime akan kembali,
+
+666
+00:45:53,783 --> 00:45:56,284
+Ser Loras mungkin tewas
+dengan kasus mengerikan
+
+667
+00:45:56,319 --> 00:45:59,521
+pedang menembus perut.
+
+668
+00:45:59,555 --> 00:46:01,523
+Ketika Jaime kembali, ya.
+
+669
+00:46:01,557 --> 00:46:03,225
+Tapi kapan?
+
+670
+00:46:03,259 --> 00:46:05,093
+Dia ada di luar sana di suatu tempat.
+
+671
+00:46:06,896 --> 00:46:10,766
+ada Jaime atau tidak,
+Aku benar-benar sial.
+
+672
+00:46:13,837 --> 00:46:15,972
+Siapa yang akan memberitahunya?
+
+673
+00:46:17,374 --> 00:46:19,708
+Apa kau pikir
+orang akan menyukainya?
+
+674
+00:46:19,743 --> 00:46:22,244
+kurasa mereka bahkan 
+tidak akan menyadarinya.
+
+675
+00:46:22,278 --> 00:46:24,747
+Kau benar.
+Ini bukan pernikahanku.
+
+676
+00:46:26,249 --> 00:46:27,717
+Lagi pula, bisa kukatakan,
+
+677
+00:46:27,751 --> 00:46:29,919
+para penjahit di Highgarden
+akan jauh lebih unggul
+
+678
+00:46:29,953 --> 00:46:31,520
+daripada yang ada
+di King's Landing.
+
+679
+00:46:31,555 --> 00:46:34,890
+Mereka takkan pernah membuat sesuatu
+sekusam ini untuk pernikahanku.
+
+680
+00:46:36,093 --> 00:46:38,794
+Loras suka kain brokat
+hijau dan emas.
+
+681
+00:46:38,829 --> 00:46:40,696
+Aku yakin dia suka.
+
+682
+00:46:42,165 --> 00:46:44,099
+Apakah mereka akan mengijinkanku untuk
+mengundang keluargaku?
+
+683
+00:46:44,134 --> 00:46:46,535
+Mereka belum meminta
+pendapatku.
+
+684
+00:46:46,569 --> 00:46:48,938
+Tapi apakah mereka akan
+melakukannya?
+
+685
+00:46:48,972 --> 00:46:50,573
+Tidak.
+
+686
+00:46:57,514 --> 00:46:59,214
+Lady Sansa,
+Tuan Tyrion ingin bertemu denganmu.
+
+687
+00:46:59,249 --> 00:47:02,084
+- Haruskah aku--
+- aku mohon maaf, my lady.
+
+688
+00:47:02,119 --> 00:47:04,487
+Selamat siang,
+Lord Tyrion.
+
+689
+00:47:04,522 --> 00:47:07,057
+Aku sedang mencoba gaun
+untuk pernikahan Raja Joffrey.
+
+690
+00:47:08,526 --> 00:47:12,996
+Ya, itu akan jadi pernikahan
+yang cukup besar.
+
+691
+00:47:13,030 --> 00:47:15,432
+aku perlu berbicara
+denganmu, Lady Sansa.
+
+692
+00:47:15,467 --> 00:47:16,967
+Tentu saja.
+
+693
+00:47:17,001 --> 00:47:19,670
+Sendirian, kalau boleh.
+
+694
+00:47:19,705 --> 00:47:21,405
+Mengapa kau perlu
+bicara sendirian dengannya?
+
+695
+00:47:21,440 --> 00:47:23,241
+Shae.
+
+696
+00:47:23,275 --> 00:47:25,042
+Maafkan dia,
+Lord Tyrion.
+
+697
+00:47:25,077 --> 00:47:26,578
+<i>Dia bukan berasal dari sini.</i>
+
+698
+00:47:26,612 --> 00:47:27,812
+Tapi aku percaya padanya,
+
+699
+00:47:27,846 --> 00:47:30,115
+meskipun
+dia bilang jangan.
+
+700
+00:47:31,784 --> 00:47:35,621
+Kadang-kadang kita berpikir
+kita ingin mendengar sesuatu
+
+701
+00:47:35,655 --> 00:47:38,724
+<i>dan itu tidak berlangsung lama,
+ketika itu terlambat</i>
+
+702
+00:47:38,758 --> 00:47:41,526
+kita sadar bahwa
+kita berharap kita mau mendengarnya
+
+703
+00:47:41,561 --> 00:47:43,695
+dalam situasi yang berbeda.
+
+704
+00:47:43,730 --> 00:47:45,564
+Sungguh, tidak apa-apa
+
+705
+00:47:49,101 --> 00:47:51,336
+Bagaimana untuk memulai?
+
+706
+00:47:53,906 --> 00:47:56,474
+Ini-- Ini--
+
+707
+00:47:56,509 --> 00:48:00,145
+Ini-- Ini canggung.
+
+708
+00:48:02,181 --> 00:48:04,215
+1.000 pedang
+
+709
+00:48:04,250 --> 00:48:07,318
+diambil dari tangan
+musuh Aegon yang kalah,
+
+710
+00:48:07,353 --> 00:48:10,755
+ditempa dengan napas api
+dari Balerion Dread.
+
+711
+00:48:10,789 --> 00:48:13,525
+Tidak sampai
+1.000 pedang.
+
+712
+00:48:13,559 --> 00:48:16,127
+Bahkan tidak sampai 200.
+
+713
+00:48:16,162 --> 00:48:17,663
+Sudah kuhitung.
+
+714
+00:48:17,697 --> 00:48:20,332
+Ha, aku yakin kau sudah.
+
+715
+00:48:20,366 --> 00:48:23,102
+Benda tua yang jelek.
+
+716
+00:48:23,136 --> 00:48:26,238
+Namun memiliki
+daya tarik tertentu.
+
+717
+00:48:26,273 --> 00:48:28,708
+Lysa Arryn nya 
+kursi-kursi
+
+718
+00:48:28,742 --> 00:48:31,510
+<i>Sayang kau harus puas
+dengan pilihan kedua.</i>
+
+719
+00:48:31,545 --> 00:48:33,813
+Masa lalu, temanku.
+
+720
+00:48:33,847 --> 00:48:36,782
+Sesungguhnya, aku tersanjung
+
+721
+00:48:38,085 --> 00:48:40,753
+bahwa kau kuatir
+
+722
+00:48:40,787 --> 00:48:43,255
+akan kemungkinan aku bisa
+mendapat apa yang kuinginkan.
+
+723
+00:48:43,290 --> 00:48:46,092
+Menggagalkanmu tak pernah
+menjadi ambisi utamaku,
+
+724
+00:48:46,126 --> 00:48:47,960
+Kuyakinkan dirimu.
+
+725
+00:48:47,995 --> 00:48:51,397
+Meskipun siapa yang tidak senang
+melihat teman mereka terus-menerus gagal?
+
+726
+00:48:51,431 --> 00:48:52,698
+Kau benar.
+
+727
+00:48:52,733 --> 00:48:54,534
+Misalnya,
+
+728
+00:48:54,568 --> 00:48:56,269
+ketika aku mengagalkan
+rencanamu
+
+729
+00:48:56,303 --> 00:48:58,371
+untuk menyerahkan Sansa Stark
+ke para Tyrells.
+
+730
+00:48:58,405 --> 00:49:00,506
+Jika aku harus jujur,
+
+731
+00:49:00,540 --> 00:49:02,408
+Aku merasakan dengan jelas
+
+732
+00:49:02,442 --> 00:49:05,911
+ada kesenangan disana.
+
+733
+00:49:05,946 --> 00:49:08,547
+Tapi orang kepercayaanmu,
+
+734
+00:49:08,582 --> 00:49:12,051
+orang memberimu informasi
+tentang rencanaku,
+
+735
+00:49:12,085 --> 00:49:14,820
+orang yang membuatmu bersumpah
+untuk melindungi dirinya...
+
+736
+00:49:16,156 --> 00:49:18,757
+kau tidak memberikannya
+kesenangan apapun.
+
+737
+00:49:19,926 --> 00:49:23,395
+Dan dia tidak memberiku
+kesenangan apapun.
+
+738
+00:49:23,430 --> 00:49:26,632
+Dia adalah investasi
+yang buruk bagi diriku.
+
+739
+00:49:28,334 --> 00:49:31,470
+Untungnya, aku punya seorang teman
+
+740
+00:49:31,504 --> 00:49:33,872
+yang ingin mencoba
+sesuatu yang baru.
+
+741
+00:49:33,906 --> 00:49:37,409
+Sesuatu yang berani.
+
+742
+00:49:37,444 --> 00:49:41,246
+Dan dia sangat berterima kasih
+padaku karena telah memberikan
+
+743
+00:49:41,281 --> 00:49:44,549
+pengalaman baru ini.
+
+744
+00:49:48,620 --> 00:49:51,422
+aku melakukan apa yang kulakukan
+demi kebaikan kerajaan.
+
+745
+00:49:51,456 --> 00:49:54,091
+Kerajaan?
+
+746
+00:49:54,125 --> 00:49:56,526
+Apakah kau tahu
+apa sebenarnya kerajaan ini?
+
+747
+00:49:58,296 --> 00:50:01,498
+Itu adalah seribu pedang
+dari musuh Aegon.
+
+748
+00:50:01,532 --> 00:50:06,470
+Sebuah cerita yang kita sepakati
+untuk diceritakan terus menerus
+
+749
+00:50:06,504 --> 00:50:08,972
+sampai kita lupa
+bahwa itu suatu kebohongan.
+
+750
+00:50:09,006 --> 00:50:13,577
+Tapi apa tersisa setelah
+kita meninggalkan kebohongan?
+
+751
+00:50:13,611 --> 00:50:15,546
+kekacauan.
+
+752
+00:50:15,580 --> 00:50:18,282
+Sebuah lubang menganga menunggu
+untuk menelan kita semua.
+
+753
+00:50:18,316 --> 00:50:21,852
+Kekacauan bukan sebuah lubang.
+
+754
+00:50:21,887 --> 00:50:24,254
+Kekacauan adalah sebuah tangga.
+
+755
+00:50:26,424 --> 00:50:28,925
+<i>Banyak yang mencoba
+untuk mendaki dan gagal</i>
+
+756
+00:50:28,960 --> 00:50:31,394
+<i>dan tak pernah mencobanya lagi.</i>
+
+757
+00:50:32,496 --> 00:50:35,064
+<i>Kejatuhan menghancurkan mereka.</i>
+
+758
+00:50:43,507 --> 00:50:47,209
+<i>Dan sebagian diberikan
+kesempatan untuk mendaki,</i>
+
+759
+00:50:47,244 --> 00:50:49,711
+<i>tapi mereka menolak.</i>
+
+760
+00:50:49,746 --> 00:50:53,081
+<i>Mereka berpegang kepada kerajaan</i>
+
+761
+00:50:53,115 --> 00:50:55,116
+<i>atau dewa-dewa</i>
+
+762
+00:50:55,150 --> 00:50:57,585
+<i>atau cinta.</i>
+
+763
+00:50:57,619 --> 00:50:59,854
+<i>Khayalan.</i>
+
+764
+00:51:01,056 --> 00:51:03,824
+<i>Hanya saja tangga itu nyata.</i>
+
+765
+00:51:03,859 --> 00:51:07,161
+<i>Dan semua yang harus dilakukan
+hanyalah mendaki.</i>
+
+766
+00:53:41,091 --> 00:53:44,800
+Diterjemahkan oleh RedSharkz
+Member of  IDFL™ Subscrew
+(@leechandra)
+
+767
+00:53:50,282 --> 00:53:55,282
+== sync, corrected by <font color="#00ff00">elderman</font> ==
+
