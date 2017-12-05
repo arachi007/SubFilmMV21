@@ -1,6 +1,7 @@
 1
 00:01:42,902 --> 00:01:46,701
 <font color="#ffff00">SEASON-2 episode 1 - North Remembers</font>
+<font color="#ff00ff">Password File: </font><font color="#ff0000">anakke2</font>
 
 2
 00:02:12,802 --> 00:02:15,237
