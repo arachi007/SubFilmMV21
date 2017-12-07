@@ -4,6 +4,9 @@
 <font color="#33ffff">http://www.lebahku.com</font>
 <font colot="#ffffff">Resync by TooN</font>
 
+1
+00:00:10,719 --> 00:01:00,419
+<b> Password File: bunga6rupa </b>
 2
 00:03:29,310 --> 00:03:31,444
 <i>Asalnya dari halaman.</i>
