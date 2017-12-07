@@ -1,0 +1,3442 @@
+1
+00:00:10,570 --> 00:01:56,930
+<font color="#ff9900">Lebah Ganteng</font>
+<font color="#33ffff">http://www.lebahku.com</font>
+<font colot="#ffffff">Resync by TooN</font>
+
+2
+00:02:18,702 --> 00:02:20,618
+Kau akan ke mana ?
+
+3
+00:02:22,172 --> 00:02:23,338
+Selatan.
+
+4
+00:02:23,423 --> 00:02:26,374
+Apa yang akan kau lakukan ?
+
+5
+00:02:26,510 --> 00:02:28,209
+Cari tempat hangat.
+
+6
+00:02:35,552 --> 00:02:37,769
+Aku bersamamu di Hardhome.
+
+7
+00:02:39,055 --> 00:02:41,389
+Kita melihat apa
+yang ada di sana.
+
+8
+00:02:41,525 --> 00:02:42,891
+Kita tahu makhluk itu
+menuju ke sini.
+
+9
+00:02:42,976 --> 00:02:45,393
+Bagaimana kau bisa
+tinggalkan kami sekarang ?
+
+10
+00:02:45,529 --> 00:02:48,029
+Sudah kulakukan yang kubisa.
+Kau tahu itu.
+
+11
+00:02:48,114 --> 00:02:49,363
+Kau sudah bersumpah.
+
+12
+00:02:49,387 --> 00:02:51,387
+Ya, kuserahkan hidupku
+untuk Night's Watch.
+
+13
+00:02:51,701 --> 00:02:53,451
+Sudah kuserahkan.
+/ Untuk selamanya.
+
+14
+00:02:53,570 --> 00:02:55,987
+Mereka membunuhku, Edd !
+Saudaraku sendiri.
+
+15
+00:02:56,072 --> 00:02:57,956
+Kau ingin aku tetap di sini
+setelah kejadian itu ?
+
+16
+00:02:58,074 --> 00:03:01,576
+<i>Ada penunggang kuda mendekat !</i>
+
+17
+00:03:01,711 --> 00:03:03,745
+<i>Buka gerbangnya !</i>
+
+18
+00:04:37,474 --> 00:04:39,340
+Supnya enak.
+
+19
+00:04:41,845 --> 00:04:44,979
+Kau ingat Pie Kacang Merah
+buatan Old Nan dulu ?
+
+20
+00:04:45,065 --> 00:04:47,649
+Dengan kacang hijau dan bawang ?
+
+21
+00:04:50,353 --> 00:04:53,271
+Harusnya kita tidak
+meninggalkan Winterfell.
+
+22
+00:04:53,356 --> 00:04:56,157
+Tidakkah kau berharap bisa
+kembali pada saat kita pergi ?
+
+23
+00:04:58,111 --> 00:05:01,829
+Aku ingin meneriaki diriku
+"Jangan pergi, bodoh."
+
+24
+00:05:01,915 --> 00:05:03,998
+Bagaimana kita bisa tahu ?
+
+25
+00:05:04,084 --> 00:05:08,202
+Aku sering berpikir betapa
+kasarnya diriku padamu.
+
+26
+00:05:10,173 --> 00:05:12,206
+<i>Kuharap bisa
+mengubah segalanya.</i>
+
+27
+00:05:12,342 --> 00:05:13,458
+Dulu kita anak - anak.
+
+28
+00:05:13,543 --> 00:05:15,176
+Aku jahat, akuilah.
+
+29
+00:05:17,380 --> 00:05:19,764
+Memang adakalanya kau jahat.
+
+30
+00:05:19,883 --> 00:05:21,683
+Aku sudah yakin tak bisa
+ikut senang - senang.
+
+31
+00:05:21,768 --> 00:05:24,552
+Selalu sebal di pojokan
+saat kalian bermain.
+
+32
+00:05:24,638 --> 00:05:26,471
+Kau bisa maafkan aku ?
+/ Tak usah minta maaf.
+
+33
+00:05:26,556 --> 00:05:28,556
+Maafkan aku.
+/ Baiklah.
+
+34
+00:05:28,692 --> 00:05:30,692
+Baiklah, aku memaafkanmu.
+
+35
+00:05:47,994 --> 00:05:49,877
+Kau pasti mengira
+setelah ribuan tahun...,
+
+36
+00:05:49,963 --> 00:05:52,547
+...Night's Watch sudah belajar
+cara membuat bir yang enak.
+
+37
+00:05:55,635 --> 00:05:57,251
+Kau akan ke mana ?
+
+38
+00:05:59,005 --> 00:06:01,589
+Kita akan ke mana ?
+
+39
+00:06:01,675 --> 00:06:02,827
+Jika aku tak menjagamu...,
+
+40
+00:06:02,852 --> 00:06:04,673
+...hantu Ayah akan datang
+kembali dan membunuhku.
+
+41
+00:06:07,764 --> 00:06:09,397
+Kita akan ke mana ?
+
+42
+00:06:09,482 --> 00:06:11,983
+Aku tak bisa tetap di sini,
+setelah apa yang terjadi.
+
+43
+00:06:12,102 --> 00:06:14,102
+<i>Hanya ada satu tempat
+yang bisa kita datangi.</i>
+
+44
+00:06:14,237 --> 00:06:16,320
+Rumah Sendiri.
+
+45
+00:06:17,607 --> 00:06:19,657
+Haruskah kita harus menyuruh
+Bolton berkemas dan pergi ?
+
+46
+00:06:19,776 --> 00:06:21,409
+Kita rebut kembali
+dari mereka.
+
+47
+00:06:24,497 --> 00:06:25,830
+Aku tak punya pasukan.
+
+48
+00:06:25,949 --> 00:06:28,032
+Berapa banyak Wildling
+yang kau selamatkan ?
+
+49
+00:06:28,118 --> 00:06:29,751
+Mereka ke sini bukan
+untuk melayaniku.
+
+50
+00:06:29,836 --> 00:06:32,120
+Mereka hutang nyawa padamu.
+
+51
+00:06:32,205 --> 00:06:35,373
+Pikirmu mereka aman jika Roose
+Bolton tetap jadi Warden Utara ?
+
+52
+00:06:35,458 --> 00:06:37,842
+Sansa.
+/ Winterfell rumah kita.
+
+53
+00:06:37,961 --> 00:06:41,462
+Itu milik kita, Arya,
+Bran dan Rickon.
+
+54
+00:06:41,548 --> 00:06:43,681
+Di manapun mereka,
+itu milik keluarga kita.
+
+55
+00:06:43,800 --> 00:06:45,133
+Kita harus perjuangkan.
+
+56
+00:06:45,218 --> 00:06:47,351
+Aku bosan bertempur.
+
+57
+00:06:49,272 --> 00:06:52,140
+Itu terus yang kulakukan
+sejak meninggalkan rumah.
+
+58
+00:06:52,225 --> 00:06:54,142
+Aku telah membunuh
+anggota Night's Watch.
+
+59
+00:06:54,277 --> 00:06:56,944
+Membunuh Wildling.
+Membunuh orang yang kukagumi.
+
+60
+00:06:57,030 --> 00:07:00,481
+Aku menggantung bocah
+yang lebih muda dari Bran.
+
+61
+00:07:02,986 --> 00:07:07,321
+Aku bertempur dan kalah.
+
+62
+00:07:11,161 --> 00:07:14,662
+Jika Utara tidak kita rebut,
+kita takkan pernah aman.
+
+63
+00:07:16,466 --> 00:07:18,549
+Kuingin kau membantuku.
+
+64
+00:07:20,053 --> 00:07:22,670
+Akan kulakukan sendiri
+jika terpaksa.
+
+65
+00:07:25,725 --> 00:07:27,892
+My Lady.
+
+66
+00:07:28,978 --> 00:07:30,595
+Ser Davos.
+
+67
+00:07:32,515 --> 00:07:35,600
+Maukah kau tetap
+di Castle Black ?
+
+68
+00:07:35,685 --> 00:07:39,437
+Ya sesuai perintah Jon Snow.
+
+69
+00:07:39,522 --> 00:07:41,355
+Sekarang kau melayani Jon Snow ?
+
+70
+00:07:42,692 --> 00:07:44,742
+Dialah pangeran yang dijanjikan.
+
+71
+00:07:46,496 --> 00:07:49,247
+Maaf, My Lady, kukira
+orangnya Stannis.
+
+72
+00:07:59,209 --> 00:08:01,342
+Apa yang terjadi di sana ?
+
+73
+00:08:03,596 --> 00:08:06,597
+Terjadi pertempuran.
+Stannis kalah.
+
+74
+00:08:08,601 --> 00:08:10,718
+Dan Shireen ?
+
+75
+00:08:10,854 --> 00:08:12,386
+Apa yang terjadi
+pada Tuan Puteri ?
+
+76
+00:08:12,472 --> 00:08:15,189
+Aku lihat apa yang terjadi.
+
+77
+00:08:15,275 --> 00:08:18,109
+Aku melihat pasukan Stannis
+dikalahkan di medan tempur.
+
+78
+00:08:18,228 --> 00:08:20,111
+My Lady, aku Ser Davos Seaworth.
+
+79
+00:08:20,230 --> 00:08:21,813
+Kita pernah bertemu.
+
+80
+00:08:21,898 --> 00:08:23,648
+Aku Kingsguardnya
+Renly Baratheon.
+
+81
+00:08:23,733 --> 00:08:27,902
+Sebelum Renly dibunuh
+dengan sihir.
+
+82
+00:08:29,122 --> 00:08:30,705
+Itu masa lalu.
+
+83
+00:08:32,242 --> 00:08:33,991
+Ya, memang masa lalu.
+
+84
+00:08:34,077 --> 00:08:36,627
+Bukan berarti aku lupa.
+
+85
+00:08:38,414 --> 00:08:39,714
+Atau sudah memaafkan.
+
+86
+00:08:41,584 --> 00:08:43,217
+Dia mengakuinya.
+
+87
+00:08:43,303 --> 00:08:45,086
+Siapa ?
+
+88
+00:08:45,221 --> 00:08:47,255
+Stannis.
+
+89
+00:08:47,390 --> 00:08:49,507
+Sebelum aku mengeksekusinya.
+
+90
+00:09:35,305 --> 00:09:37,471
+Sang Pelindung Vale !
+
+91
+00:09:37,607 --> 00:09:39,223
+Paman Petyr !
+
+92
+00:09:46,149 --> 00:09:47,698
+Tuanku.
+
+93
+00:09:47,817 --> 00:09:49,367
+Ke mari lihatlah.
+
+94
+00:09:49,485 --> 00:09:52,119
+Aku melewatkan ulang tahunmu.
+Bukalah.
+
+95
+00:09:53,406 --> 00:09:56,490
+Elang !
+
+96
+00:09:56,626 --> 00:09:57,992
+Gryfalcon.
+
+97
+00:09:58,077 --> 00:09:59,543
+Paling hebat dan
+paling langka.
+
+98
+00:09:59,662 --> 00:10:02,330
+Terakhir kali kulihat, Baelish...,
+
+99
+00:10:02,465 --> 00:10:06,667
+...kau bilang mengantarkan
+Sansa Stark pulang ke Fingers.
+
+100
+00:10:06,753 --> 00:10:08,002
+Memang benar.
+
+101
+00:10:08,137 --> 00:10:10,338
+Namun belum lama ini,
+kami menerima laporan...
+
+102
+00:10:10,423 --> 00:10:13,507
+...kalau dia menikah dengan
+Ramsay Bolton di Winterfell.
+
+103
+00:10:13,643 --> 00:10:14,700
+Dalam perjalanan ke Fingers...,
+
+104
+00:10:14,724 --> 00:10:17,047
+...kami diserang
+pasukan Bolton.
+
+105
+00:10:17,313 --> 00:10:19,076
+Tampaknya dia tahu kapan...
+
+106
+00:10:19,100 --> 00:10:21,417
+...kami bepergian dan
+siapa yang kami bawa.
+
+107
+00:10:21,851 --> 00:10:23,567
+Kau pikir aku bodoh ?
+
+108
+00:10:23,686 --> 00:10:26,520
+Jawab, Lord Royce...,
+
+109
+00:10:26,656 --> 00:10:30,024
+...berapa orang yang tahu soal
+perjalananku dengan Sansa Stark ?
+
+110
+00:10:30,109 --> 00:10:33,411
+Aku cerita padamu...
+
+111
+00:10:33,529 --> 00:10:35,663
+<i>...tak ada yang lain.</i>
+
+112
+00:10:35,748 --> 00:10:39,533
+Memfitnah seseorang
+di rumahnya sendiri...,
+
+113
+00:10:39,619 --> 00:10:42,420
+...sama saja dengan menantangnya.
+
+114
+00:10:42,538 --> 00:10:47,174
+Rumahmu adalah Vale.
+Pemimpin Vale ada di depan kita.
+
+115
+00:10:47,260 --> 00:10:50,044
+Hanya keputusannya yang
+jadi masalah bagiku.
+
+116
+00:10:55,969 --> 00:10:58,135
+<i>Haruskah kita buang dia
+lewat Moon Door ?</i>
+
+117
+00:11:05,228 --> 00:11:07,311
+Tuanku.
+
+118
+00:11:07,397 --> 00:11:11,983
+Tuanku, saya selalu setia
+pada House Arryn.
+
+119
+00:11:12,068 --> 00:11:15,069
+Pada Ayah-Ibu Anda, dan
+sekarang pada Anda.
+
+120
+00:11:16,406 --> 00:11:17,655
+Kau percaya padanya,
+Paman Petyr ?
+
+121
+00:11:25,965 --> 00:11:29,083
+Lord Royce melayani
+Vale dengan baik.
+
+122
+00:11:29,168 --> 00:11:32,920
+Dia menikmati jabatan
+istimewa militernya.
+
+123
+00:11:33,006 --> 00:11:36,557
+Jika kita bisa percayai
+kesetiaan penuhnya...,
+
+124
+00:11:36,642 --> 00:11:39,226
+...dia akan cocok jadi panglima
+perang yang akan datang.
+
+125
+00:11:42,815 --> 00:11:46,317
+Anda bisa memercayai
+kesetiaan penuh saya, Tuanku.
+
+126
+00:11:46,436 --> 00:11:49,236
+Dia berhak dapat satu
+kesempatan lagi. Bagaimana ?
+
+127
+00:11:56,195 --> 00:11:57,828
+Baiklah.
+
+128
+00:12:05,121 --> 00:12:07,371
+Aku bawa kabar baik.
+
+129
+00:12:07,457 --> 00:12:10,041
+Temanku di Utara bilang
+Sansa kabur dari Winterfell.
+
+130
+00:12:10,126 --> 00:12:11,926
+Kutebak dia menuju
+ke Castle Black...
+
+131
+00:12:12,011 --> 00:12:14,345
+...di mana kakaknya
+jadi Lord Commander.
+
+132
+00:12:14,464 --> 00:12:18,632
+Tapi dia takkan aman di sana,
+jika Bolton mengejarnya.
+
+133
+00:12:20,686 --> 00:12:22,553
+Dia sepupuku.
+
+134
+00:12:25,308 --> 00:12:26,390
+Kita harus membantunya.
+
+135
+00:12:26,476 --> 00:12:29,143
+Itu juga instingku.
+
+136
+00:12:29,278 --> 00:12:31,812
+Tuan kita sudah bertitah.
+
+137
+00:12:33,399 --> 00:12:35,316
+Kumpulkan Ksatria Vale.
+
+138
+00:12:35,451 --> 00:12:38,486
+Masa bergabung dalam
+pertempuran telah tiba.
+
+139
+00:12:42,708 --> 00:12:44,825
+<i>Kau mengundang musuh
+ke kota kita ?</i>
+
+140
+00:12:44,961 --> 00:12:46,627
+Benar.
+
+141
+00:12:46,712 --> 00:12:49,163
+Orang pintar pernah
+bilang padaku...,
+
+142
+00:12:49,298 --> 00:12:51,966
+"Kita berdamai dengan musuh kita,
+Bukan teman - teman kita."
+
+143
+00:12:52,051 --> 00:12:55,002
+Aku tidak berdamai
+dengan musuh Ratu.
+
+144
+00:12:55,138 --> 00:12:56,220
+Aku membunuh
+musuh Ratu.
+
+145
+00:12:56,339 --> 00:12:57,805
+Ya, itu pendekatan militer.
+
+146
+00:12:57,890 --> 00:12:59,473
+Bagaimana hasilnya di Meereen ?
+
+147
+00:12:59,559 --> 00:13:01,842
+Aku pakai pendekatan diplomatik.
+
+148
+00:13:01,978 --> 00:13:04,095
+Ratu pernah coba damai
+dengan para Master...,
+
+149
+00:13:04,180 --> 00:13:06,180
+...mereka coba membunuhnya.
+
+150
+00:13:06,265 --> 00:13:09,183
+Kita lakukan negosiasi ini
+dengan mata terbuka.
+
+151
+00:13:09,318 --> 00:13:12,603
+Percayalah. Pengalamanku
+dengan perbudakan...
+
+152
+00:13:12,688 --> 00:13:14,605
+...telah mengajarkanku
+kengerian adatnya.
+
+153
+00:13:14,690 --> 00:13:16,107
+Berapa hari kau jadi budak ?
+
+154
+00:13:16,192 --> 00:13:18,192
+Lumayan lama untuk tahu.
+
+155
+00:13:18,277 --> 00:13:21,328
+Kurang lama untuk memahami.
+
+156
+00:13:26,836 --> 00:13:31,372
+Kubeli si kerdil ini
+dengan satu koin emas.
+
+157
+00:13:31,507 --> 00:13:33,541
+Entah bagaimana kau naik...
+
+158
+00:13:33,676 --> 00:13:36,544
+...ke atas Pyramid Agung Meereen.
+
+159
+00:13:36,679 --> 00:13:38,462
+Itu yang paling mengesankan.
+
+160
+00:13:38,548 --> 00:13:41,382
+Dan sekarang kau Mewakili
+para Good Master Astapor.
+
+161
+00:13:41,517 --> 00:13:43,851
+Itulah perputaran keberuntungan.
+
+162
+00:13:43,936 --> 00:13:45,519
+Kami ke sini untuk
+menemui Ratu...
+
+163
+00:13:45,605 --> 00:13:48,022
+...tapi malah ditemui
+orang kerdil dan kasim.
+
+164
+00:13:48,107 --> 00:13:51,892
+Sederhana saja, ya ?
+Katakan kalian mau apa.
+
+165
+00:13:52,028 --> 00:13:54,945
+Kami ingin kalian
+meninggalkan Slaver's Bay.
+
+166
+00:13:55,064 --> 00:13:58,732
+Bawa Naga dan pasukan
+kalian, lalu pergi.
+
+167
+00:13:58,868 --> 00:14:01,402
+Ratu Daenerys takkan tinggal
+di Meereen selamanya.
+
+168
+00:14:01,537 --> 00:14:03,287
+Dia akan ke Barat.
+
+169
+00:14:03,406 --> 00:14:05,739
+Saat terakhir bertemu,
+Kutawari dia kapal...
+
+170
+00:14:05,825 --> 00:14:09,710
+...agar bisa kembali ke Westeros.
+Tapi dia menolaknya.
+
+171
+00:14:09,795 --> 00:14:11,912
+Dia menolak semuanya
+karena ratusan ribu pria...,
+
+172
+00:14:11,998 --> 00:14:13,964
+...wanita, dan anak - anak
+masih jadi budak.
+
+173
+00:14:14,083 --> 00:14:16,500
+Mereka jadi budak
+sejak awal masa.
+
+174
+00:14:16,586 --> 00:14:19,753
+Tidak lagi.
+/ Pikirmu kau sudah merdeka ?
+
+175
+00:14:19,889 --> 00:14:21,722
+Kau masih mengikuti perintah.
+
+176
+00:14:21,807 --> 00:14:24,341
+Hanya karena Pemilikmu
+berambut perak dan berpayudara...
+
+177
+00:14:24,427 --> 00:14:26,177
+...bukan berarti dia
+bukan Master.
+
+178
+00:14:26,262 --> 00:14:29,730
+Teman, teman, harap tenang.
+
+179
+00:14:29,815 --> 00:14:31,231
+Selalu ada...
+
+180
+00:14:31,255 --> 00:14:34,183
+...orang kaya, berkuasa serta
+yang tak punya apa - apa.
+
+181
+00:14:34,437 --> 00:14:35,533
+Itulah takdir dunia.
+
+182
+00:14:35,557 --> 00:14:37,557
+Aku bukan ingin
+mengubah takdir dunia.
+
+183
+00:14:37,573 --> 00:14:40,024
+Perbudakan bukalan
+cara dari dunia kita.
+
+184
+00:14:40,109 --> 00:14:43,611
+Kalian tak perlu budak
+untuk menghasilkan uang.
+
+185
+00:14:43,696 --> 00:14:46,580
+Ratusan tahun tak ada
+budak di Westeros...
+
+186
+00:14:46,666 --> 00:14:48,616
+...dan aku tumbuh
+lebih kaya dari kalian.
+
+187
+00:14:50,620 --> 00:14:54,288
+Tapi Ratu sadar dia keliru...
+
+188
+00:14:54,423 --> 00:14:57,041
+...dengan menghapuskan perbudakan...
+
+189
+00:14:57,126 --> 00:14:59,960
+...tanpa memberikan sistem baru
+untuk menggantikannya.
+
+190
+00:15:00,096 --> 00:15:03,847
+Jadi inilah tawaran Ratu.
+
+191
+00:15:03,966 --> 00:15:06,800
+Perbudakan takkan pernah
+kembali ke Meereen...,
+
+192
+00:15:06,936 --> 00:15:09,637
+...tapi dia akan berikan waktu
+pada kota - kota di Slaver's Bay...
+
+193
+00:15:09,772 --> 00:15:11,722
+...untuk menyesuaikan diri
+pada tatanan baru.
+
+194
+00:15:11,807 --> 00:15:13,140
+Maksudnya ?
+
+195
+00:15:13,226 --> 00:15:16,360
+Bukan langsung menghapus
+perbudakan seketika...,
+
+196
+00:15:16,479 --> 00:15:19,196
+...waktu kalian 7 tahun
+untuk mengakhirinya.
+
+197
+00:15:24,320 --> 00:15:26,153
+Pemilik budak akan
+diberi kompensasi...
+
+198
+00:15:26,239 --> 00:15:28,989
+...atas kerugian mereka,
+dengan harga sepadan.
+
+199
+00:15:29,075 --> 00:15:31,575
+Sebagai gantinya,
+kalian hentikan...
+
+200
+00:15:31,661 --> 00:15:33,410
+...sokongan pada Sons of Harpy.
+
+201
+00:15:33,496 --> 00:15:35,056
+Kami tidak menyokong
+Sons of Harpy.
+
+202
+00:15:35,164 --> 00:15:38,215
+Baik, baik, pokoknya
+kalian hentikan.
+
+203
+00:15:39,385 --> 00:15:42,336
+Kuharap kalian terima.
+
+204
+00:15:42,471 --> 00:15:44,338
+Takkan ada penawaran
+yang lebih baik.
+
+205
+00:15:47,810 --> 00:15:50,644
+Mari kita berlayar dalam
+gelombang kebebasan...
+
+206
+00:15:50,730 --> 00:15:52,980
+...bukan tenggelam
+oleh gelombangnya.
+
+207
+00:15:54,350 --> 00:15:57,434
+Sebagai hadiah perpisahan
+untuk tamu terhormat.
+
+208
+00:16:06,412 --> 00:16:08,195
+Berilah kesempatan pada kebebasan.
+
+209
+00:16:08,331 --> 00:16:11,665
+Kita lihat apa hal itu tak sebaik
+keadaan sebelumnya.
+
+210
+00:16:22,569 --> 00:16:24,505
+Kawan - kawan !
+
+211
+00:16:25,614 --> 00:16:27,336
+Maaf sekali...
+
+212
+00:16:27,952 --> 00:16:30,172
+...kalian menunggu lama.
+
+213
+00:16:32,688 --> 00:16:34,605
+Mungkin aku harus terjemahkan.
+
+214
+00:16:34,724 --> 00:16:36,307
+<i>Kami berbicara
+Bahasa Utama.</i>
+
+215
+00:16:36,392 --> 00:16:39,893
+Sempurna.
+/ Kau bertemu para pemilik budak.
+
+216
+00:16:39,979 --> 00:16:41,395
+<i>Benar.</i>
+
+217
+00:16:41,480 --> 00:16:43,480
+Saudara-saudari kami tewas
+melawan para sampah itu.
+
+218
+00:16:43,566 --> 00:16:46,734
+<i>Kau malah mengundang dan
+minum anggur dengan mereka.</i>
+
+219
+00:16:49,405 --> 00:16:52,823
+Kubayangkan ruangan ini dibangun...
+
+220
+00:16:52,908 --> 00:16:55,959
+...agar para penguasa bisa
+menakuti yang dikuasai.
+
+221
+00:16:57,079 --> 00:16:59,830
+Tapi aku bukan pimpinan kalian.
+
+222
+00:16:59,915 --> 00:17:02,249
+Aku bukan Sang Pembebas.
+
+223
+00:17:02,335 --> 00:17:04,501
+Aku bukan Yang Tak Terbakar.
+
+224
+00:17:04,587 --> 00:17:08,806
+Dan tentu bukan Ibu Naga.
+
+225
+00:17:08,924 --> 00:17:10,924
+Kau orang asing di sini.
+
+226
+00:17:11,060 --> 00:17:13,977
+Lalu kenapa kau mewakili Meereen
+berdiskusi dengan musuh kita ?
+
+227
+00:17:14,096 --> 00:17:17,514
+Karena Ratu memilihku
+jadi penasihatnya.
+
+228
+00:17:17,600 --> 00:17:19,733
+Sampai dia kembali
+dari perjalanan...
+
+229
+00:17:19,819 --> 00:17:21,318
+Kapan dia kembali ?
+
+230
+00:17:21,437 --> 00:17:23,854
+Secepatnya.
+Aku janji.
+
+231
+00:17:23,939 --> 00:17:27,608
+Kami tak kenal kau, kami tak percaya.
+Kami kenal Torgo Nudho.
+
+232
+00:17:27,743 --> 00:17:29,660
+Kami berjuang bersamanya melawan
+para Master. Kami percaya padanya.
+
+233
+00:17:29,779 --> 00:17:33,614
+Itu sebabnya Grey Worm
+ikut dalam negosiasi ini.
+
+234
+00:17:33,699 --> 00:17:37,334
+<i>Sebagai komandan Unsullied, dia
+tahu cara mengalahkan pemilik budak.</i>
+
+235
+00:17:37,453 --> 00:17:39,169
+Dan dia tahu kapan
+saatnya untuk berdamai.
+
+236
+00:17:39,288 --> 00:17:42,122
+Kau berdamai dengan
+para pemilik budak ?
+
+237
+00:17:42,258 --> 00:17:43,604
+<i>Menawarkan kesepakatan.</i>
+
+238
+00:17:44,629 --> 00:17:45,586
+Dan kau, Grey Worm ?
+
+239
+00:17:45,610 --> 00:17:47,645
+Kau ingin minum Wine
+bersama mereka ?
+
+240
+00:17:47,669 --> 00:17:52,734
+Orang yang memisahkan kita dari Ibu
+kita dan menjual kita seperti ternak.
+
+241
+00:17:59,020 --> 00:18:01,284
+Aku prajurit, bukan politikus.
+
+242
+00:18:01,308 --> 00:18:03,446
+Tapi jika ada kesempatan berdamai...
+
+243
+00:18:03,470 --> 00:18:05,349
+...yang tepat...
+
+244
+00:18:05,373 --> 00:18:06,928
+...kita harus mengambilnya.
+
+245
+00:18:08,024 --> 00:18:09,529
+Missandei...,
+
+246
+00:18:09,553 --> 00:18:13,751
+Kau tahu siapa mereka.
+Bagaimana kau percaya mereka ?
+
+247
+00:18:13,775 --> 00:18:17,194
+Aku tak percaya mereka.
+Takkan pernah percaya.
+
+248
+00:18:21,937 --> 00:18:25,205
+Tapi orang bijak pernah berkata:
+
+249
+00:18:25,229 --> 00:18:31,728
+"Kita berdamai dengan musuh kita,
+bukan dengan teman - teman kita."
+
+250
+00:18:36,061 --> 00:18:39,480
+Jangan manfaatku aku demi dustamu.
+/ Mereka menghormatimu.
+
+251
+00:18:39,565 --> 00:18:41,849
+Mereka menghormatiku
+karena tahu siapa aku.
+
+252
+00:18:41,984 --> 00:18:43,984
+Mereka tahu aku setia.
+/ Aku juga.
+
+253
+00:18:44,069 --> 00:18:46,353
+Aku setia pada Ratu,
+bukan padamu.
+
+254
+00:18:46,439 --> 00:18:48,322
+Jika kau mengkhianatinya,
+Maka kau musuhku.
+
+255
+00:18:48,407 --> 00:18:51,525
+Aku tidak mengkhianatinya.
+Kucoba selamatkan kotanya.
+
+256
+00:18:51,660 --> 00:18:54,077
+Kau menjanjikan tetap
+adanya perbudakan.
+
+257
+00:18:54,196 --> 00:18:55,362
+Hanya sebentar.
+
+258
+00:18:55,498 --> 00:18:58,198
+Tujuh tahun bukan sebentar
+bagi seorang budak.
+
+259
+00:18:58,334 --> 00:18:59,783
+Kalian benar.
+
+260
+00:18:59,869 --> 00:19:02,336
+Perbudakan adalah kekejaman
+yang harus langsung diakhiri.
+
+261
+00:19:02,421 --> 00:19:04,955
+Perang adalah kekejaman
+yang harus langsung diakhiri.
+
+262
+00:19:05,040 --> 00:19:06,707
+Aku tak bisa lakukan
+keduanya hari ini.
+
+263
+00:19:06,842 --> 00:19:08,258
+Kau salah memercayai mereka.
+
+264
+00:19:08,377 --> 00:19:11,795
+Aku tak percaya para Master.
+Hanya kepentingan pribadi mereka.
+
+265
+00:19:11,881 --> 00:19:13,547
+Mereka bisa dipercaya
+jika mereka yakin...
+
+266
+00:19:13,682 --> 00:19:15,849
+...kalau kerja sama denganku
+akan menguntungkan mereka.
+
+267
+00:19:15,935 --> 00:19:18,802
+Kau tak kenal mereka.
+Kau tak paham mereka.
+
+268
+00:19:18,888 --> 00:19:20,554
+Kami bukan manusia
+di mata mereka.
+
+269
+00:19:20,689 --> 00:19:22,940
+Mereka menatapku
+dan melihat senjata.
+
+270
+00:19:23,058 --> 00:19:25,058
+Mereka menatapnya
+dan melihat pelacur.
+
+271
+00:19:25,144 --> 00:19:27,895
+Mereka menatapku dan
+melihat binatang kecil.
+
+272
+00:19:28,030 --> 00:19:30,063
+Penghinaan mereka
+adalah kelemahan mereka.
+
+273
+00:19:30,149 --> 00:19:33,650
+Mereka selalu meremehkan kita.
+Kita manfaatkan itu.
+
+274
+00:19:34,904 --> 00:19:36,820
+Bukan kau yang
+manfaatkan mereka.
+
+275
+00:19:36,906 --> 00:19:39,623
+Mereka yang memanfaatkanmu.
+Itu yang mereka lakukan.
+
+276
+00:20:00,479 --> 00:20:02,396
+Kau baik saja ?
+
+277
+00:20:02,481 --> 00:20:05,732
+Kenapa kau tak duduk saja
+dan tarik nafas ?
+
+278
+00:20:05,818 --> 00:20:08,769
+Aku baik saja.
+
+279
+00:20:08,904 --> 00:20:11,104
+Kurasa kau tak bisa
+menunggangi Naga.
+
+280
+00:20:11,190 --> 00:20:13,323
+Kalau 20 tahun lalu mungkin.
+
+281
+00:20:13,442 --> 00:20:15,692
+Apa ?
+/ Ratu kita.
+
+282
+00:20:15,778 --> 00:20:19,162
+Dia liar. Jangan biarkan
+ukuran tubuhnya menipumu.
+
+283
+00:20:19,281 --> 00:20:21,999
+Aku yang muda saja
+masih kesulitan.
+
+284
+00:20:22,117 --> 00:20:25,869
+Kau, kurasa jantungmu takkan kuat.
+
+285
+00:20:29,375 --> 00:20:32,042
+Pasti kau marah
+karena Ratu memilihku.
+
+286
+00:20:32,127 --> 00:20:35,295
+Justru aku sedih.
+Kau mengecewakannya.
+
+287
+00:20:35,381 --> 00:20:37,798
+Dia akan lupakanmu.
+/ Kita semua mengecewakannya.
+
+288
+00:20:37,933 --> 00:20:40,767
+Sekarang kita saling membutuhkan.
+Setelah selesai...,
+
+289
+00:20:40,853 --> 00:20:44,304
+Aku tak mau melawanmu,
+Jorah the Andal.
+
+290
+00:20:44,390 --> 00:20:46,106
+Apa yang kudapat ?
+
+291
+00:20:46,191 --> 00:20:48,859
+Jika menang, aku pengecut
+yang membunuh orang tua.
+
+292
+00:20:48,978 --> 00:20:52,112
+Jika kalah, aku pengecut
+yang dibunuh orang tua.
+
+293
+00:20:53,866 --> 00:20:56,984
+Kau kurang pendidikan
+saat kecil, ya ?
+
+294
+00:20:57,119 --> 00:20:58,819
+Benar.
+
+295
+00:21:05,995 --> 00:21:07,578
+Jalannya menyusur
+lewat Horse Gate..,
+
+296
+00:21:07,663 --> 00:21:09,496
+...mereka menyebutnya
+Jalan Dewa.
+
+297
+00:21:09,582 --> 00:21:12,299
+Eastern Market,
+Western Market.
+
+298
+00:21:12,384 --> 00:21:14,074
+Saat Khal Drogo meninggal...,
+
+299
+00:21:14,098 --> 00:21:16,298
+...harusnya dia bergabung
+dengan Dosh Khaleen di sini...,
+
+300
+00:21:16,672 --> 00:21:19,923
+...janda para Khal.
+
+301
+00:21:20,009 --> 00:21:21,975
+Ke sanalah mereka
+akan membawanya...,
+
+302
+00:21:22,061 --> 00:21:25,262
+<i>Kuil Dosh Khaleen.</i>
+
+303
+00:21:33,355 --> 00:21:34,855
+Apa yang kau lakukan ?
+
+304
+00:21:34,990 --> 00:21:37,524
+Dilarang membawa senjata
+di Kota Suci.
+
+305
+00:21:37,610 --> 00:21:41,028
+Bukannya masuk dan mencuri
+Khaleesi mereka juga dilarang ?
+
+306
+00:21:41,113 --> 00:21:42,996
+Jika mereka melihat kita
+dan kita tak bersenjata...,
+
+307
+00:21:43,082 --> 00:21:45,532
+...kita bilang kita pedagang
+yang menuju Western Market.
+
+308
+00:21:45,668 --> 00:21:47,284
+Tapi jika mereka
+melihat senjata...,
+
+309
+00:21:47,369 --> 00:21:49,086
+Kau minta anjing
+menyerahkan giginya.
+
+310
+00:21:49,204 --> 00:21:51,204
+Jumlah mereka 100,000.
+
+311
+00:21:51,290 --> 00:21:52,789
+Kita tak bisa kabur.
+
+312
+00:21:52,875 --> 00:21:55,626
+Kita tunggu sampai gelap,
+lalu kita cari dia.
+
+313
+00:22:02,384 --> 00:22:04,301
+Uh...,
+
+314
+00:22:05,638 --> 00:22:08,689
+Aku sudah melekat
+dengan pisau ini.
+
+315
+00:22:19,451 --> 00:22:22,069
+Jangan khawatir.
+Belum menyentuhmu.
+
+316
+00:22:23,572 --> 00:22:25,656
+Kau tahu yang terjadi ?
+
+317
+00:22:25,741 --> 00:22:27,457
+Ya.
+
+318
+00:22:29,378 --> 00:22:31,211
+Biar kulakukan sendiri.
+
+319
+00:23:03,579 --> 00:23:06,446
+Harusnya aku lahir
+sebagai Dothraki.
+
+320
+00:23:34,193 --> 00:23:37,227
+Ayo.
+
+321
+00:23:37,397 --> 00:23:39,110
+Kawan - kawan.
+
+322
+00:23:39,280 --> 00:23:43,100
+Kami berjalan dari
+Western Market dan tersesat.
+
+323
+00:23:43,151 --> 00:23:46,290
+Bisa tunjukkan jalan kembali ?
+
+324
+00:23:46,341 --> 00:23:47,711
+Apa yang kalian jual ?
+
+325
+00:23:47,767 --> 00:23:48,904
+Wine.
+
+326
+00:23:49,193 --> 00:23:51,136
+Datanglah ke kedaiku besok.
+
+327
+00:23:51,196 --> 00:23:55,067
+Akan kuberi satu tong
+kecil terbaik dari Arbor.
+
+328
+00:23:59,955 --> 00:24:02,133
+Kau bukan pedagang.
+
+329
+00:24:02,176 --> 00:24:03,516
+Panggil yang lain.
+
+330
+00:24:54,556 --> 00:24:57,524
+Sudah kubilang pisau ini
+sudah melekat denganku.
+
+331
+00:24:59,061 --> 00:25:00,560
+Kau baik saja ?
+
+332
+00:25:00,696 --> 00:25:02,863
+Jika mereka menemukan
+mayat dengan luka tusuk...,
+
+333
+00:25:02,948 --> 00:25:05,315
+...seluruh kota akan
+mencari kita.
+
+334
+00:25:26,755 --> 00:25:27,587
+Hah.
+
+335
+00:25:33,254 --> 00:25:38,135
+Sebagian merasa Dothraki tak boleh
+punya anak dengan orang asing.
+
+336
+00:25:38,159 --> 00:25:43,070
+Mereka bodoh. Mereka tak sadar
+kalau darah kita sudah tercampur.
+
+337
+00:25:43,094 --> 00:25:45,341
+Yang ini namanya Lhazareen.
+
+338
+00:25:45,365 --> 00:25:48,752
+Khalnya menemukan dia sembunyi
+di sumur setelah desanya dia bakar.
+
+339
+00:25:48,776 --> 00:25:50,809
+Berapa umurmu waktu itu ?
+
+340
+00:25:50,833 --> 00:25:53,545
+Dua belas.
+
+341
+00:25:53,569 --> 00:25:58,403
+Setahun kemudian, dia punya putri.
+Bagaimana Khal tunjukkan kebahagiaan ?
+
+342
+00:25:58,427 --> 00:26:00,933
+Dia patahkan rusukku.
+
+343
+00:26:02,285 --> 00:26:07,400
+Di sini kita bukan Ratu. Tapi Khal
+bergantung pada kearifan kita.
+
+344
+00:26:07,424 --> 00:26:09,573
+Hidup kita di sini bermakna.
+
+345
+00:26:09,597 --> 00:26:12,391
+Itu sudah lebih dari
+kebanyakan orang lain.
+
+346
+00:26:12,415 --> 00:26:18,743
+Saat para Khal rapat Khalar Vezhven,
+semoga kau diizinkan bersama kami.
+
+347
+00:26:18,767 --> 00:26:22,187
+Karena kemungkinan lainnya
+tak menyenangkan.
+
+348
+00:26:22,211 --> 00:26:24,964
+Aku ingin buang air.
+
+349
+00:26:26,072 --> 00:26:28,799
+Kau tak bisa lari dari Dothraki.
+
+350
+00:26:28,888 --> 00:26:30,444
+Kau tahu itu.
+
+351
+00:26:30,468 --> 00:26:33,357
+Aku takkan pernah
+lari dari Dothraki.
+
+352
+00:26:34,954 --> 00:26:36,584
+Antarkan dia.
+
+353
+00:26:37,939 --> 00:26:40,031
+Aku butuh udara segar.
+
+354
+00:26:40,055 --> 00:26:42,189
+Si Tua itu bau.
+
+355
+00:26:42,213 --> 00:26:43,926
+Mereka memang bau.
+
+356
+00:26:44,854 --> 00:26:47,412
+Kau pasti sangat muda
+saat Khalmu mati.
+
+357
+00:26:47,436 --> 00:26:49,003
+Saat umurku 16.
+
+358
+00:26:49,154 --> 00:26:51,753
+Sayang matinya tak lebih cepat.
+
+359
+00:26:53,799 --> 00:26:55,799
+Ya, sayang sekali.
+
+360
+00:26:55,823 --> 00:26:58,480
+Apa benar kau punya 3 Naga ?
+
+361
+00:26:58,847 --> 00:27:00,180
+Mm-hmm.
+
+362
+00:27:01,714 --> 00:27:03,829
+Mereka bernafas api ?
+
+363
+00:27:03,853 --> 00:27:05,489
+Benar.
+
+364
+00:27:05,513 --> 00:27:07,893
+Kau mau lihat suatu hari nanti ?
+
+365
+00:27:08,080 --> 00:27:10,405
+Aku Dosh Khaleen.
+
+366
+00:27:10,429 --> 00:27:15,361
+Aku takkan pernah meninggalkan
+Vaes Dothrak sampai aku mati.
+
+367
+00:27:15,831 --> 00:27:17,998
+Tidak, jangan sakiti dia.
+/ Dia jaminan kita.
+
+368
+00:27:18,083 --> 00:27:19,833
+Kita harus pergi sekarang.
+
+369
+00:27:24,623 --> 00:27:27,340
+Kita takkan keluar dari
+Vaes Dothrak hidup - hidup.
+
+370
+00:27:27,426 --> 00:27:29,843
+Kita harus coba.
+
+371
+00:27:29,928 --> 00:27:32,128
+Tidak.
+
+372
+00:27:32,214 --> 00:27:34,431
+Kita bisa lakukan lebih dari itu.
+
+373
+00:27:34,549 --> 00:27:36,132
+Kalian bantu aku.
+
+374
+00:27:39,173 --> 00:27:40,616
+Dan kau...,
+
+375
+00:27:40,761 --> 00:27:42,714
+Percayalah padaku, Khaleesi.
+
+376
+00:27:42,818 --> 00:27:44,666
+Jangan khianati aku.
+
+377
+00:28:45,537 --> 00:28:49,289
+Jika sekarang saya lepaskan
+Anda, Anda mau ke mana ?
+
+378
+00:28:49,374 --> 00:28:52,042
+<i>Apa yang akan Anda cari ?</i>
+
+379
+00:28:53,962 --> 00:28:56,463
+Akan kutemui saudaraku...,
+
+380
+00:28:56,598 --> 00:28:58,048
+...suamiku, keluargaku.
+
+381
+00:28:58,133 --> 00:29:02,268
+Tentu, bagi Anda, itu
+berarti mencari uang...,
+
+382
+00:29:02,354 --> 00:29:05,221
+...perhiasan, kekuasaan.
+
+383
+00:29:05,307 --> 00:29:09,142
+Mencari keluarga Anda
+berarti mencari dosa.
+
+384
+00:29:09,227 --> 00:29:11,144
+<i>Saya tidak memfitnah Anda.</i>
+
+385
+00:29:11,229 --> 00:29:14,147
+Saya juga mencari
+hal - hal tersebut.
+
+386
+00:29:14,282 --> 00:29:16,483
+Yang lainnya pengecualian.
+
+387
+00:29:18,320 --> 00:29:20,120
+<i>Ayah saya tukang sepatu.</i>
+
+388
+00:29:20,205 --> 00:29:24,374
+Dia mati muda dan saya
+mengambil alih tokonya.
+
+389
+00:29:24,493 --> 00:29:26,993
+Dia pria sederhana dan
+membuat sepatu sederhana.
+
+390
+00:29:27,079 --> 00:29:30,497
+Tapi saya sadar, makin saya
+baguskan sepatu saya...,
+
+391
+00:29:30,582 --> 00:29:31,798
+...makin banyak orang
+yang menginginkannya.
+
+392
+00:29:31,883 --> 00:29:34,968
+Bahan kulit bagus,
+aksesorinya...,
+
+393
+00:29:35,053 --> 00:29:38,922
+...detail modelnya,
+dan waktu.
+
+394
+00:29:39,007 --> 00:29:40,723
+Paling banyak waktu.
+
+395
+00:29:40,842 --> 00:29:43,426
+Puluhan jam dihabiskan
+untuk sepasang sepatu.
+
+396
+00:29:43,512 --> 00:29:45,261
+Kualitas membutuhkan waktu.
+
+397
+00:29:45,347 --> 00:29:47,313
+Ya.
+
+398
+00:29:47,399 --> 00:29:49,482
+Saya bayangkan Anda
+memikul beban orang lain...
+
+399
+00:29:49,568 --> 00:29:52,519
+...di punggung Anda
+selama setahun.
+
+400
+00:29:52,654 --> 00:29:54,988
+<i>Keturunan bangsawan suka
+menghabiskan waktu dengan Saya...,</i>
+
+401
+00:29:55,073 --> 00:29:58,074
+...dan mereka membayar
+lumayan untuk hal itu.
+
+402
+00:29:58,193 --> 00:29:59,742
+Saya gunakan uang mereka...
+
+403
+00:29:59,861 --> 00:30:02,579
+...untuk membeli selera hidup
+mereka untuk saya sendiri.
+
+404
+00:30:02,697 --> 00:30:04,831
+<i>Tiap kali saya menurutinya...,</i>
+
+405
+00:30:04,916 --> 00:30:09,035
+Saya merasa naik ke level
+yang lebih baik.
+
+406
+00:30:09,121 --> 00:30:11,121
+Dan suatu hari Anda
+berjalan di kuburan...
+
+407
+00:30:11,206 --> 00:30:12,922
+...dan menyadari itu
+semua tak berguna...
+
+408
+00:30:13,041 --> 00:30:15,542
+...hingga Anda memmutuskan
+mengukti jalan yang benar.
+
+409
+00:30:15,677 --> 00:30:18,261
+Book of the Stranger, Ayat: 25
+[Kitab Orang Asing]
+
+410
+00:30:18,380 --> 00:30:20,880
+Anda tahu
+"The Seven-Pointed Star."
+
+411
+00:30:21,016 --> 00:30:23,683
+Septa Unella membacanya
+untukku. Padaku.
+
+412
+00:30:23,768 --> 00:30:27,604
+Ya, dia suka membacakannya
+pada orang - orang.
+
+413
+00:30:29,307 --> 00:30:30,723
+Hampir saja.
+
+414
+00:30:31,860 --> 00:30:33,893
+Tapi itu bukan kuburan.
+
+415
+00:30:33,979 --> 00:30:35,812
+Itu sebuah pesta.
+
+416
+00:30:35,897 --> 00:30:38,198
+Saya bawa anggur bagus...
+
+417
+00:30:38,283 --> 00:30:40,316
+...dan gadis - gadis muda
+yang cantik...
+
+418
+00:30:40,402 --> 00:30:44,120
+...dan mengajak teman - teman
+saya dan berbagi kesenangan.
+
+419
+00:30:44,239 --> 00:30:47,624
+<i>Kami berbagi anggur,
+berbagi wanita...,</i>
+
+420
+00:30:47,742 --> 00:30:50,460
+<i>...dan kemudian
+kami teler.</i>
+
+421
+00:30:53,748 --> 00:30:56,549
+Saya bangun sebelum fajar.
+
+422
+00:30:56,635 --> 00:30:59,752
+Hampir tak bisa berdiri.
+
+423
+00:30:59,888 --> 00:31:04,591
+Yang lain tertidur di dipan
+atau di lantai...,
+
+424
+00:31:04,726 --> 00:31:09,345
+...bertumpukan di sebelah
+pakaian bagus mereka.
+
+425
+00:31:09,431 --> 00:31:11,898
+Mereka telanjang.
+
+426
+00:31:13,935 --> 00:31:16,769
+Saya bisa mencium bau mereka...
+
+427
+00:31:16,905 --> 00:31:20,240
+...di antara bau dupa, parfum...,
+
+428
+00:31:20,325 --> 00:31:24,027
+...dan bau makanan enak
+yang mulai basi.
+
+429
+00:31:26,164 --> 00:31:29,365
+Dan saya melihatnya
+dengan jelas.
+
+430
+00:31:30,452 --> 00:31:32,785
+Melihat dosa - dosa saya.
+
+431
+00:31:34,289 --> 00:31:37,123
+Emas yang saya punya, Wine,
+wanita yang saya setubuhi...,
+
+432
+00:31:37,259 --> 00:31:41,461
+...kerja keras saya untuk
+mempertahankan posisi saya.
+
+433
+00:31:46,134 --> 00:31:48,384
+Itu semua adalah
+bagian dari cerita.
+
+434
+00:31:50,805 --> 00:31:53,856
+Cerita yang saya ceritakan pada
+diri sendiri tentang saya yang dulu.
+
+435
+00:31:54,859 --> 00:31:56,442
+<i>Kumpulan kebohongan...</i>
+
+436
+00:31:56,528 --> 00:31:58,478
+<i>...yang akan menghilang
+dalam cahaya.</i>
+
+437
+00:31:58,613 --> 00:32:02,482
+Orang yang saya hindari...,
+
+438
+00:32:02,617 --> 00:32:04,067
+...pengemis jalanan...,
+
+439
+00:32:04,152 --> 00:32:05,702
+<i>...orang miskin...,</i>
+
+440
+00:32:05,820 --> 00:32:09,572
+...mereka lebih dekat pada
+kebenaran daripada saya.
+
+441
+00:32:09,658 --> 00:32:12,208
+Lalu apa yang kau lakukan ?
+
+442
+00:32:12,327 --> 00:32:14,160
+<i>Saya pergi mencari mereka.</i>
+
+443
+00:32:14,296 --> 00:32:17,880
+Bahkan tak memakai sepatu.
+
+444
+00:32:17,999 --> 00:32:21,884
+Saya pergi dan tak pernah kembali.
+
+445
+00:32:27,642 --> 00:32:29,592
+Ayo, mari temui dia.
+
+446
+00:32:30,812 --> 00:32:33,096
+Siapa ?
+/ Saudara Anda.
+
+447
+00:32:49,197 --> 00:32:50,446
+Loras.
+
+448
+00:32:56,871 --> 00:32:58,955
+Loras.
+
+449
+00:33:17,859 --> 00:33:19,726
+Dengarkan aku.
+
+450
+00:33:19,811 --> 00:33:21,694
+Kau harus kuat.
+
+451
+00:33:25,116 --> 00:33:27,567
+Aku tak bisa.
+
+452
+00:33:27,702 --> 00:33:29,452
+Aku tak pernah kuat.
+
+453
+00:33:29,571 --> 00:33:31,321
+Kau kuat.
+
+454
+00:33:31,406 --> 00:33:33,740
+Kau adalah masa depan
+klan kita...,
+
+455
+00:33:33,875 --> 00:33:35,241
+...masa depan
+keluarga kita.
+
+456
+00:33:35,377 --> 00:33:37,910
+Aku tak peduli.
+
+457
+00:33:38,046 --> 00:33:39,796
+Shh.
+
+458
+00:33:39,914 --> 00:33:42,165
+Kau...
+Kau sudah bilang pada mereka ?
+
+459
+00:33:42,250 --> 00:33:43,750
+Bahwa kau tak peduli ?
+
+460
+00:33:43,835 --> 00:33:47,837
+Aku hanya ingin menyudahi ini.
+
+461
+00:33:50,258 --> 00:33:52,091
+Tolong aku.
+
+462
+00:33:58,650 --> 00:34:01,434
+Mereka ingin aku membantumu.
+
+463
+00:34:02,771 --> 00:34:04,053
+Mereka ingin aku membantu
+menghancurkanmu.
+
+464
+00:34:04,054 --> 00:34:05,506
+Mereka ingin aku membantu
+menghancurkanmu.
+
+465
+00:34:05,607 --> 00:34:08,576
+Itu alasan dia membiarkan
+kita bertemu. Aku tahu.
+
+466
+00:34:08,677 --> 00:34:12,346
+Dan jika kita menyerah,
+mereka akan menang.
+
+467
+00:34:12,447 --> 00:34:14,148
+Biarkan mereka menang.
+
+468
+00:34:16,084 --> 00:34:17,551
+Tolong sudahi saja ini.
+
+469
+00:34:17,652 --> 00:34:19,853
+Kumohon.
+
+470
+00:34:21,122 --> 00:34:23,390
+Baiklah.
+
+471
+00:34:27,929 --> 00:34:31,765
+<i>Sekarang bagaimana mencegah
+bencana dalam keadaan sulit ini.</i>
+
+472
+00:34:31,866 --> 00:34:34,034
+<i>Si High Sparrow.</i>
+
+473
+00:34:34,135 --> 00:34:37,104
+<i>Saya sudah berurusan dengan
+banyak orang fanatik, Yang mulia.</i>
+
+474
+00:34:37,205 --> 00:34:40,841
+Jangan memancing mereka,
+itu yang paling penting.
+
+475
+00:34:40,942 --> 00:34:44,144
+Anda dikelilingi musuh
+dari dalam dan luar.
+
+476
+00:34:44,245 --> 00:34:45,913
+Apa yang kau lakukan di sini ?
+
+477
+00:34:48,650 --> 00:34:52,052
+Saya menasehati Raja tentang
+keadaan kita yang sedang sulit.
+
+478
+00:34:52,153 --> 00:34:53,096
+Pergilah.
+
+479
+00:34:53,120 --> 00:34:55,120
+Saya anggota Dewan Inti.
+
+480
+00:34:55,624 --> 00:34:56,857
+Raja...
+
+481
+00:34:56,958 --> 00:34:59,593
+Apa ini pertemuan Dewan Inti ?
+
+482
+00:34:59,694 --> 00:35:00,961
+Tentu saja bukan.
+
+483
+00:35:01,062 --> 00:35:04,164
+Saya di sini untuk memberi
+nasihat dan bantuan.
+
+484
+00:35:04,265 --> 00:35:07,501
+Terima kasih atas nasehatmu,
+Grand Maester.
+
+485
+00:35:07,602 --> 00:35:09,503
+Cukup sekian untuk sekarang.
+
+486
+00:35:09,604 --> 00:35:11,372
+Yang mulia.
+
+487
+00:35:35,163 --> 00:35:38,699
+Karena aku melewatkan
+beberapa pertemuan Dewan...,
+
+488
+00:35:38,800 --> 00:35:41,568
+...aku ingin bicara
+beberapa hal denganmu.
+
+489
+00:35:43,271 --> 00:35:45,572
+Aku sedang memikirkan
+High Sparrow.
+
+490
+00:35:45,674 --> 00:35:48,342
+Kita semua sama.
+
+491
+00:35:48,443 --> 00:35:51,345
+Kita harus hati - hati
+berurusan dengan mereka.
+
+492
+00:35:52,814 --> 00:35:55,249
+Untuk mencegah
+memanasnya keadaan.
+
+493
+00:35:57,385 --> 00:35:59,620
+Kita harus hati - hati agar
+tak membuatnya marah.
+
+494
+00:35:59,721 --> 00:36:02,122
+Mereka menahan Margaery.
+Kita tak boleh bahayakan dia.
+
+495
+00:36:02,223 --> 00:36:04,958
+Dia berbahaya.
+/ Lihat Ibu.
+
+496
+00:36:05,060 --> 00:36:06,894
+Apa yang mereka
+lakukan pada Ibu ?
+
+497
+00:36:06,995 --> 00:36:08,929
+Kepada Ibu sang Raja ?
+
+498
+00:36:13,501 --> 00:36:16,136
+Tak apa.
+
+499
+00:36:16,237 --> 00:36:18,672
+Itu telah terjadi.
+
+500
+00:36:18,773 --> 00:36:21,008
+Dan tentu saja...
+
+501
+00:36:21,109 --> 00:36:23,811
+...keselamatan Margaery
+sangat penting.
+
+502
+00:36:25,180 --> 00:36:29,049
+Kau tak suka Margaery, 'kan ?
+
+503
+00:36:30,785 --> 00:36:33,887
+Suka atau tidak,
+itu tak penting.
+
+504
+00:36:36,357 --> 00:36:37,958
+Margaery adalah Ratu.
+
+505
+00:36:39,561 --> 00:36:42,663
+Ratu harus dihormati.
+Terlebih lagi Raja.
+
+506
+00:36:42,764 --> 00:36:45,566
+Bukan hanya demi kebaikan
+mereka, tapi semua orang.
+
+507
+00:36:47,535 --> 00:36:50,971
+High Sparrow tak mengormati
+Raja atau Ratu.
+
+508
+00:36:51,072 --> 00:36:52,906
+Tak menghormati
+apapun di dunia ini.
+
+509
+00:36:53,007 --> 00:36:55,909
+Dia tak berguna di dunia ini.
+
+510
+00:36:56,010 --> 00:36:59,646
+Dia ingin menghancurkannya
+dan menggantinya dengan apa ?
+
+511
+00:36:59,748 --> 00:37:01,849
+Dengan khayalan.
+
+512
+00:37:01,950 --> 00:37:03,951
+<i>Dengan pengemis
+di jalanan.</i>
+
+513
+00:37:04,052 --> 00:37:05,252
+Dengan kehampaan.
+
+514
+00:37:07,255 --> 00:37:08,822
+Ibu...,
+
+515
+00:37:10,458 --> 00:37:12,092
+Aku ingin memberitahumu sesuatu.
+
+516
+00:37:13,561 --> 00:37:15,863
+Yang High Sparrow
+ceritakan padaku.
+
+517
+00:37:18,666 --> 00:37:20,367
+Kau sudah bicara dengannya ?
+
+518
+00:37:22,337 --> 00:37:25,773
+Aku janji untuk tak bilang pada
+siapapun. Jika dia tahu aku...
+
+519
+00:37:25,874 --> 00:37:28,675
+Ini akan merusak kepercayaan
+mengingat dia takkan...
+
+520
+00:37:28,777 --> 00:37:31,545
+...meremehkan ocehannya
+tentang kebenaran.
+
+521
+00:37:34,749 --> 00:37:37,184
+Aku Ibumu.
+
+522
+00:37:38,219 --> 00:37:40,254
+Kau selalu bisa percaya padaku.
+
+523
+00:37:48,229 --> 00:37:51,632
+Pertemuan Dewan ditunda
+atas perintah Raja.
+
+524
+00:37:51,733 --> 00:37:54,093
+Kurasa sedah jelas sejak awal.
+
+525
+00:37:54,169 --> 00:37:55,365
+<i>Kalian tak diterima.</i>
+
+526
+00:37:55,389 --> 00:37:57,337
+<i>Dulu kau berbicara dengan
+dengan hormat pada Ayah....</i>
+
+527
+00:37:57,338 --> 00:38:00,073
+...karena dia mengerti pentingnya
+kerja sama dengan saingannya.
+
+528
+00:38:00,175 --> 00:38:04,978
+Sayang, kau telah menelanjangi
+kehormatan dan kekuasaanmu...,
+
+529
+00:38:05,079 --> 00:38:08,081
+...dipermalukan di muka umum,
+dan dikurung di Red Keep.
+
+530
+00:38:08,183 --> 00:38:10,417
+Apa yang tersisa ?
+
+531
+00:38:10,518 --> 00:38:12,920
+<i>Cersei adalah Ibu
+dari sang Raja.</i>
+
+532
+00:38:13,021 --> 00:38:15,722
+Dia perwakilan dan
+kepercayaan Raja.
+
+533
+00:38:15,824 --> 00:38:17,758
+Dan Raja telah
+beberapa kali bicara...
+
+534
+00:38:17,859 --> 00:38:21,261
+...dengan High Sparrow tentang
+Ratu Margaery and Ser Loras.
+
+535
+00:38:21,362 --> 00:38:22,996
+High Sparrow
+merampas kekuasaan...
+
+536
+00:38:23,097 --> 00:38:25,065
+...karena tahu betul
+kita saling berselisih...
+
+537
+00:38:25,166 --> 00:38:26,867
+...dari pada mengambil
+kekuasaan kembali.
+
+538
+00:38:26,968 --> 00:38:28,769
+Di sinilah kita.
+Kerja bagus.
+
+539
+00:38:28,870 --> 00:38:30,971
+Sekarang masa depan
+Seven Kingdoms...
+
+540
+00:38:31,072 --> 00:38:32,906
+...ada di tangan kotor para petani.
+
+541
+00:38:33,007 --> 00:38:35,776
+Beberapa hari kedepan,
+dia akan mengadiliku.
+
+542
+00:38:35,877 --> 00:38:39,446
+Tapi sebelum itu, Ratu Margaery
+akan melakukan penebusan dosa.
+
+543
+00:38:39,547 --> 00:38:43,150
+Ya, Margaery akan
+mengakui dosanya...
+
+544
+00:38:43,251 --> 00:38:45,219
+...di hadapan orang - orang kota ini.
+
+545
+00:38:45,320 --> 00:38:47,788
+Oh, tidak.
+
+546
+00:38:47,889 --> 00:38:50,691
+Itu tak boleh terjadi.
+
+547
+00:38:50,792 --> 00:38:52,593
+Itu takkan terjadi.
+
+548
+00:38:52,694 --> 00:38:54,361
+Aku setuju.
+
+549
+00:38:56,998 --> 00:38:59,900
+Kau punya pasukan
+terbesar kedua di Westeros.
+
+550
+00:39:00,001 --> 00:39:01,435
+Kau bawa mereka
+ke dalam kota...,
+
+551
+00:39:01,536 --> 00:39:04,204
+...menghentikan penghinaan
+terhadap Ratu Margaery...,
+
+552
+00:39:04,305 --> 00:39:06,707
+...dan mengembalikannya
+ke dalam penjagaan Istana.
+
+553
+00:39:06,808 --> 00:39:10,544
+Raja memerintahkanku untuk
+tidak melawan High Sparrow...
+
+554
+00:39:10,645 --> 00:39:13,747
+...atau Faith Militant karena
+khawatir akan keselamatan Ratu.
+
+555
+00:39:13,848 --> 00:39:15,682
+Kau sama sekali
+takkan melawan.
+
+556
+00:39:15,783 --> 00:39:18,318
+Ketika pasukan Tyrell datang,
+kau akan pergi.
+
+557
+00:39:18,419 --> 00:39:22,089
+<i>Apa kau dengan jelas
+dilarang mundur ?</i>
+
+558
+00:39:22,190 --> 00:39:25,058
+Tidak, tapi jika Raja harus...
+
+559
+00:39:25,159 --> 00:39:27,928
+Semua akan berakhir sebelum ada
+yang menuduhmu melakukan sesuatu.
+
+560
+00:39:28,029 --> 00:39:32,165
+Saat High Sparrow dipenjara
+atau mati, semoga saja...,
+
+561
+00:39:32,267 --> 00:39:34,801
+...dan Margaery kembali
+ke sisi Tommen...,
+
+562
+00:39:34,903 --> 00:39:37,004
+...kau pikir Raja akan
+marah pada hasilnya ?
+
+563
+00:39:37,105 --> 00:39:39,840
+Kau sangat benci para
+fanatik itu seperti kami.
+
+564
+00:39:39,941 --> 00:39:43,210
+Kau benci yang telah mereka
+lakukan pada anakmu.
+
+565
+00:39:43,311 --> 00:39:45,178
+Kau ingin Lancel kembali ?
+
+566
+00:39:45,280 --> 00:39:47,147
+Atau kau telah menyerahkan
+dia selamanya ?
+
+567
+00:39:48,950 --> 00:39:51,184
+Tentu saja aku
+ingin dia kembali.
+
+568
+00:39:54,589 --> 00:39:56,189
+Maka menyingkirlah...
+
+569
+00:39:56,291 --> 00:39:59,493
+...dan biarkan mereka yang
+merebutnya darimu hancur.
+
+570
+00:40:03,064 --> 00:40:04,865
+Jika ini tak berjalan
+sesuai rencana...,
+
+571
+00:40:04,966 --> 00:40:07,334
+...anggota Sparrow punya
+banyak teman di kota ini.
+
+572
+00:40:07,435 --> 00:40:10,170
+Akan terjadi perang saudara.
+Banyak yang akan mati.
+
+573
+00:40:10,271 --> 00:40:12,673
+Bagaimanapun tetap banyak
+yang akan mati.
+
+574
+00:40:14,442 --> 00:40:16,176
+Lebih baik mereka yang
+mati dari pada kita.
+
+575
+00:41:12,600 --> 00:41:14,968
+Mereka bilang kau pulang
+dan aku tidak percaya.
+
+576
+00:41:17,038 --> 00:41:19,773
+"Theon Greyjoy ?"
+Tanyaku.
+
+577
+00:41:19,874 --> 00:41:22,209
+"Dia sudah mati."
+
+578
+00:41:22,310 --> 00:41:24,678
+"Dia sudah lama mati."
+
+579
+00:41:27,815 --> 00:41:29,783
+Dia melepaskanmu ?
+
+580
+00:41:29,884 --> 00:41:31,351
+Aku melarikan diri.
+
+581
+00:41:33,888 --> 00:41:35,722
+Aku tak dengar.
+
+582
+00:41:35,823 --> 00:41:37,491
+Aku melarikan diri.
+
+583
+00:41:39,827 --> 00:41:41,595
+Tatap aku.
+
+584
+00:41:50,271 --> 00:41:51,671
+Tatap aku.
+
+585
+00:41:53,141 --> 00:41:55,776
+Banyak yang mati saat
+coba menyelamatkanmu.
+
+586
+00:41:55,877 --> 00:41:57,477
+Pasukan hebat.
+
+587
+00:41:57,578 --> 00:41:59,046
+Pasukanku.
+
+588
+00:42:00,515 --> 00:42:02,149
+Maafkan aku.
+
+589
+00:42:02,250 --> 00:42:04,284
+Kau saudaraku.
+
+590
+00:42:04,385 --> 00:42:07,421
+Kau pengecut manja,
+tapi kau saudaraku...
+
+591
+00:42:07,522 --> 00:42:09,489
+...dan aku mengambil resiko
+untuk menyelamatkanmu...
+
+592
+00:42:09,590 --> 00:42:10,957
+...tapi kau khianati aku.
+
+593
+00:42:11,059 --> 00:42:13,226
+Aku tahu.
+Maafkan aku.
+
+594
+00:42:13,327 --> 00:42:14,628
+Berhenti minta maaf.
+
+595
+00:42:15,696 --> 00:42:16,930
+Dia menghancurkanku.
+
+596
+00:42:17,031 --> 00:42:19,733
+Dia menghancurkanku hingga
+menjadi ribuan potongan.
+
+597
+00:42:19,834 --> 00:42:21,201
+Aku tahu.
+/ Kau tak tahu.
+
+598
+00:42:21,302 --> 00:42:23,804
+Dia mengirimkan kami
+salah satu potongannya.
+
+599
+00:42:23,905 --> 00:42:25,872
+Itu sebabnya aku
+menyelamatkanmu.
+
+600
+00:42:31,913 --> 00:42:33,814
+Kenapa kau ke sini ?
+
+601
+00:42:33,915 --> 00:42:35,515
+Aku harus pergi ke mana lagi ?
+
+602
+00:42:35,616 --> 00:42:39,319
+Kau dengar Ayah meninggal
+dan mau mengambil takhta ?
+
+603
+00:42:39,420 --> 00:42:41,388
+Tidak. Aku baru dengar Ayah
+meninggal setelah berlabuh.
+
+604
+00:42:41,489 --> 00:42:44,391
+Kau kebetulan muncul di Pyke
+tepat sebelum pemilihan Raja ?
+
+605
+00:42:44,492 --> 00:42:45,959
+Aku tak tahu.
+
+606
+00:42:48,963 --> 00:42:52,165
+Kau pikir orang Ironborn
+ingin kau jadi Raja...
+
+607
+00:42:52,266 --> 00:42:54,067
+...setelah apa yang kau lakukan ?
+
+608
+00:42:54,168 --> 00:42:56,136
+Aku tak ingin jadi Raja.
+
+609
+00:42:56,237 --> 00:42:59,473
+Apa maumu ?
+
+610
+00:42:59,574 --> 00:43:01,614
+Harusnya aku mendengarkanmu.
+Kau satu-  satunya...
+
+611
+00:43:01,709 --> 00:43:04,044
+Itu sudah tak penting.
+Berhenti menangis.
+
+612
+00:43:04,145 --> 00:43:06,146
+Tatap aku.
+
+613
+00:43:06,247 --> 00:43:09,416
+Katakan apa maumu.
+
+614
+00:43:13,788 --> 00:43:16,456
+Kau harus memerintah
+Iron Islands.
+
+615
+00:43:17,725 --> 00:43:19,693
+Biarkan aku membantumu.
+
+616
+00:43:46,420 --> 00:43:48,522
+Mereka membersihkanmu
+dengan baik.
+
+617
+00:43:50,758 --> 00:43:52,526
+Kau tahu siapa aku ?
+
+618
+00:43:54,128 --> 00:43:55,328
+Seorang Lord.
+
+619
+00:43:55,429 --> 00:43:57,364
+Ya.
+
+620
+00:43:57,465 --> 00:44:00,033
+Seorang Lord.
+
+621
+00:44:00,134 --> 00:44:02,068
+Kau sudah lihat benderaku ?
+
+622
+00:44:03,404 --> 00:44:05,539
+Manusia terbang.
+
+623
+00:44:05,640 --> 00:44:08,475
+Apa itu membuatmu khawatir ?
+
+624
+00:44:08,576 --> 00:44:10,076
+Setelah itu kau memakannya ?
+
+625
+00:44:13,748 --> 00:44:14,981
+Tidak.
+
+626
+00:44:15,082 --> 00:44:18,084
+Aku sudah lihat yang lebih buruk.
+
+627
+00:44:42,243 --> 00:44:44,277
+Kau melayani keluarga Stark ?
+
+628
+00:44:44,378 --> 00:44:46,913
+Ya.
+Mereka merantaiku...
+
+629
+00:44:47,014 --> 00:44:48,882
+...dan menghunuskan
+pedang ke leherku...,
+
+630
+00:44:48,983 --> 00:44:50,250
+...jadi, aku melayani mereka.
+
+631
+00:44:50,351 --> 00:44:53,720
+Keluarga Stark telah lama pergi...
+
+632
+00:44:53,821 --> 00:44:56,590
+...tapi kau tetap
+menjaga Rickon.
+
+633
+00:44:56,691 --> 00:45:00,193
+Dia sangat berharga
+untuk pembeli yang tepat.
+
+634
+00:45:00,294 --> 00:45:02,062
+Dulu aku melayani keluarganya.
+
+635
+00:45:02,163 --> 00:45:04,297
+Mendapat bayaran.
+
+636
+00:45:04,398 --> 00:45:07,534
+Aku menggapnya hutang.
+
+637
+00:45:09,670 --> 00:45:12,272
+Meski demikian...,
+
+638
+00:45:12,373 --> 00:45:14,841
+...Rickon bukan lagi
+milikmu untuk dijual.
+
+639
+00:45:14,942 --> 00:45:16,610
+Dia milikku.
+
+640
+00:45:16,711 --> 00:45:19,746
+Jadi apa gunanya dirimu ?
+
+641
+00:45:22,149 --> 00:45:24,484
+Aku bisa memberi
+apa yang kau mau.
+
+642
+00:45:24,585 --> 00:45:26,820
+Kau yakin tahu
+apa yang kumau ?
+
+643
+00:45:28,422 --> 00:45:31,925
+Hal yang selalu
+diinginkan pria.
+
+644
+00:45:32,026 --> 00:45:36,229
+Saat pria sangat menginginkannya,
+mereka memandikannya lebih dulu.
+
+645
+00:45:44,538 --> 00:45:46,806
+Kau pintar bicara.
+
+646
+00:45:49,076 --> 00:45:50,944
+Aku suka itu.
+
+647
+00:45:58,519 --> 00:46:02,255
+Kau lebih pandai bicara
+dari pada Theon Greyjoy.
+
+648
+00:46:03,658 --> 00:46:05,458
+Benarkah ?
+
+649
+00:46:05,559 --> 00:46:07,861
+Aku harus bekerja keras
+agar dia bicara.
+
+650
+00:46:07,962 --> 00:46:10,463
+Tapi dia bicara akhirnya.
+
+651
+00:46:10,564 --> 00:46:12,232
+Mereka semua bicara.
+
+652
+00:46:12,333 --> 00:46:15,101
+Dia memberitahuku semuanya.
+
+653
+00:46:15,202 --> 00:46:18,038
+Semua tentang anak - anak Stark...,
+
+654
+00:46:18,139 --> 00:46:20,373
+...siapa yang membantu
+mereka melarikan diri...,
+
+655
+00:46:20,474 --> 00:46:21,808
+...dan bagaimana caranya.
+
+656
+00:46:50,271 --> 00:46:52,172
+<i>Buka gerbangnya !</i>
+
+657
+00:47:39,153 --> 00:47:41,254
+Maaf untuk makanannya.
+
+658
+00:47:41,355 --> 00:47:43,390
+Kami tidak ahli
+soal makanan.
+
+659
+00:47:43,491 --> 00:47:45,959
+Tak apa.
+Ada hal yang lebih penting.
+
+660
+00:47:50,965 --> 00:47:52,799
+Surat untukmu,
+Lord Commander.
+
+661
+00:47:54,602 --> 00:47:56,503
+Aku bukan Lord Commander lagi.
+
+662
+00:48:16,457 --> 00:48:18,992
+"Untuk pengkhianat dan
+anak haram, Jon Snow."
+
+663
+00:48:19,093 --> 00:48:22,328
+Kau membiarkan ribuan
+Wilding melewati Wall.
+
+664
+00:48:22,430 --> 00:48:23,897
+Kau mengkhianati
+kaummu sendiri.
+
+665
+00:48:23,998 --> 00:48:25,865
+Kau mengkhianati Utara.
+
+666
+00:48:25,966 --> 00:48:29,102
+Winterfell milikku, anak haram.
+Kemarilah.
+
+667
+00:48:30,704 --> 00:48:32,772
+Adikmu Rickon ada di penjaraku.
+
+668
+00:48:41,449 --> 00:48:43,450
+Kulit Direwolf-nya
+ada di lantaiku.
+
+669
+00:48:43,551 --> 00:48:46,243
+Datanglah.
+Aku ingin pengantinku kembali.
+
+670
+00:48:46,244 --> 00:48:47,527
+Serahkan dia padaku...,
+
+671
+00:48:47,551 --> 00:48:49,823
+...maka kau atau kekasih
+Wildlingmu takkan kuganggu.
+
+672
+00:48:49,824 --> 00:48:52,926
+Jika menjauhkan dia dariku,
+maka akan kubantai...
+
+673
+00:48:53,027 --> 00:48:56,529
+...semua pria, wanita, bayi Wildling
+yang ada dalam perlindunganmu.
+
+674
+00:48:56,630 --> 00:48:59,277
+Kau akan melihatku menguliti
+mereka hidup - hidup.
+
+675
+00:48:59,301 --> 00:49:01,301
+"Kau..."
+
+676
+00:49:02,403 --> 00:49:04,037
+Teruskan.
+
+677
+00:49:04,138 --> 00:49:05,939
+Lanjutannya sama saja.
+
+678
+00:49:10,811 --> 00:49:14,414
+"Kau akan melihat pasukanku
+memperkosa adikmu bergiliran."
+
+679
+00:49:15,916 --> 00:49:17,217
+<i>Kau akan melihat
+anjing - anjingku...</i>
+
+680
+00:49:17,318 --> 00:49:19,919
+...memangsa adik kecilmu.
+
+681
+00:49:21,956 --> 00:49:25,558
+Lalu kucongkel matamu dan biarkan
+anjingku melakukan sisanya.
+
+682
+00:49:25,659 --> 00:49:29,596
+Datang dan lihatlah.
+Ramsay Bolton, Lord Winterfell...
+
+683
+00:49:29,697 --> 00:49:31,431
+...dan Warden Utara."
+
+684
+00:49:34,969 --> 00:49:38,872
+Lord Winterfell dan Warden Utara.
+
+685
+00:49:38,973 --> 00:49:41,875
+Ayahnya mati.
+
+686
+00:49:41,976 --> 00:49:43,510
+Ramsay membunuhnya.
+
+687
+00:49:43,611 --> 00:49:45,979
+Sekarang dia menahan Rickon.
+/ Belum pasti.
+
+688
+00:49:46,080 --> 00:49:48,481
+Sudah pasti itu.
+
+689
+00:49:48,582 --> 00:49:51,084
+Berapa orang prajurit
+yang dia punya ?
+
+690
+00:49:53,153 --> 00:49:54,596
+Kudengar dia punya 5,000...
+
+691
+00:49:54,620 --> 00:49:56,632
+...saat dia berbicara
+tentang serangan Stannis.
+
+692
+00:49:56,991 --> 00:49:59,359
+Berapa banyak yang kau punya ?
+
+693
+00:49:59,460 --> 00:50:02,395
+Yang bisa berjalan dan bertarung ?
+
+694
+00:50:02,496 --> 00:50:04,230
+2,000.
+
+695
+00:50:05,533 --> 00:50:08,234
+Sisanya anak - anak
+dan orang tua.
+
+696
+00:50:12,940 --> 00:50:15,875
+Kau anak dari Warden Utara
+terakhir yang sebenarnya.
+
+697
+00:50:15,976 --> 00:50:19,612
+Keluarga Utara setia. Mereka akan
+bertempur jika kau memintanya.
+
+698
+00:50:21,749 --> 00:50:25,952
+Monster telah merebut
+rumah dan adik kita.
+
+699
+00:50:27,388 --> 00:50:30,390
+Kita harus kembali ke Winterfell
+dan menyelamatkan mereka.
+
+700
+00:50:42,869 --> 00:50:45,803
+Dilarang menumpahkan
+darah di Kota suci.
+
+701
+00:50:45,827 --> 00:50:48,975
+Dilarang membawa senjata
+di Kota suci.
+
+702
+00:50:48,999 --> 00:50:50,764
+Jadi jangan menumpahkan darah.
+
+703
+00:50:50,788 --> 00:50:53,707
+Pasti selalu ada sedikit darah.
+
+704
+00:50:53,731 --> 00:50:56,977
+Ada yang menghancurkan
+kepalanya dengan batu.
+
+705
+00:50:57,001 --> 00:50:59,356
+Aggo adalah Khalasarku.
+
+706
+00:50:59,380 --> 00:51:01,185
+Dia melayani dengan baik.
+
+707
+00:51:01,209 --> 00:51:03,682
+Kepalanya dihancurkan dengan batu.
+
+708
+00:51:03,706 --> 00:51:05,150
+Persetan dengan Aggo.
+
+709
+00:51:12,223 --> 00:51:14,095
+Suruh masuk janda Drogo.
+
+710
+00:51:36,955 --> 00:51:37,655
+Siapa yang peduli padanya ?
+Dia kerdil.
+
+711
+00:51:40,273 --> 00:51:42,029
+Aku suka dia.
+
+712
+00:51:42,053 --> 00:51:44,249
+Dia lebih pucat dari susu.
+
+713
+00:51:44,273 --> 00:51:46,726
+Aku ingin tahu seperti
+apa rasanya Khaleesi.
+
+714
+00:51:46,750 --> 00:51:48,368
+Bagus.
+Kau bisa hisap kemaluanku.
+
+715
+00:51:49,926 --> 00:51:52,812
+Dia milik Dosh Khaleen.
+
+716
+00:51:52,836 --> 00:51:55,497
+Wise Master dari Yunkai
+menginginkannya.
+
+717
+00:51:55,521 --> 00:51:58,445
+Mereka akan menukarnya
+dengan 10,000 kuda.
+
+718
+00:51:58,469 --> 00:51:59,822
+Lebih berharga mana...
+
+719
+00:51:59,846 --> 00:52:02,677
+...satu gadis merah muda
+atau 10,000 kuda ?
+
+720
+00:52:02,701 --> 00:52:05,952
+Persetan dengan para Wise Master.
+
+721
+00:52:05,976 --> 00:52:08,480
+Akan kuambil sendiri kuda mereka.
+
+722
+00:52:08,504 --> 00:52:11,963
+Kalian tak mau tahu pendapatku ?
+
+723
+00:52:14,492 --> 00:52:16,673
+Kau lebih memilih
+dijual jadi budak ?
+
+724
+00:52:17,118 --> 00:52:20,361
+Atau kau mau tunjukkan pada
+Rhalko seperti apa rasamu.
+
+725
+00:52:20,385 --> 00:52:21,734
+Tidak.
+
+726
+00:52:21,758 --> 00:52:23,893
+Aku tak mau semuanya.
+
+727
+00:52:23,917 --> 00:52:25,442
+Kami tak peduli maumu.
+
+728
+00:52:25,466 --> 00:52:27,884
+Ini Kuil Dosh Khaleen.
+
+729
+00:52:27,908 --> 00:52:29,448
+Kau tak bisa berpendapat di sini...
+
+730
+00:52:29,472 --> 00:52:31,585
+...kecuali kau Dosh Khaleen.
+
+731
+00:52:31,609 --> 00:52:34,414
+Sedangkan kau bukan,
+sebelum kami putuskan.
+
+732
+00:52:34,438 --> 00:52:37,407
+Aku tahu aku di mana.
+Aku pernah di sini.
+
+733
+00:52:37,431 --> 00:52:43,208
+Di sinilah Dosh Khaleen mengumumkan
+anakku, Kuda Yang Menunggangi Dunia.
+
+734
+00:52:43,232 --> 00:52:45,125
+Lalu apa yang terjadi ?
+
+735
+00:52:45,149 --> 00:52:47,642
+Kau percaya penyihir,
+seperti orang bodoh.
+
+736
+00:52:47,666 --> 00:52:51,241
+Bayimu mati karenamu.
+
+737
+00:52:51,265 --> 00:52:53,596
+Begitupun Khal Drogo.
+
+738
+00:52:55,550 --> 00:52:59,707
+Di sinilah Drogo berjanji membawa
+Khalasarnya ke Barat, ujung dunia.
+
+739
+00:52:59,731 --> 00:53:03,501
+Menunggangi Kuda Kayu melewati Black Salt
+Sea yang tak pernah dilakukan Khal lain.
+
+740
+00:53:03,525 --> 00:53:09,627
+Dia berjanji membunuh manusia berbaju
+besi dan merobohkan rumah batu mereka.
+
+741
+00:53:10,020 --> 00:53:12,920
+Dia berjanji padaku di hadapan
+Mother of Mountains.
+
+742
+00:53:13,413 --> 00:53:16,066
+Dan kau bodoh memercayainya.
+
+743
+00:53:16,090 --> 00:53:20,096
+Sekarang hal besar apa yang
+dibahas para Khal Agung ?
+
+744
+00:53:20,120 --> 00:53:22,202
+Desa kecil mana yang
+akan kalian jarah...,
+
+745
+00:53:22,226 --> 00:53:26,461
+...berapa gadis yang akan kalian tiduri,
+berapa kuda yang kalian minta.
+
+746
+00:53:26,485 --> 00:53:28,793
+Kalian pria lemah.
+
+747
+00:53:28,817 --> 00:53:32,386
+Satupun tak ada yang pantas
+memimpin Dothraki.
+
+748
+00:53:34,690 --> 00:53:37,231
+Tapi aku pantas.
+
+749
+00:53:39,407 --> 00:53:41,745
+Jadi aku akan memimpin.
+
+750
+00:53:51,077 --> 00:53:52,474
+Baiklah.
+
+751
+00:53:52,498 --> 00:53:54,904
+Tak ada Dosh Khaleen bagimu.
+
+752
+00:53:54,928 --> 00:53:58,907
+Malah kami akan
+menyetubuhimu bergiliran.
+
+753
+00:53:58,931 --> 00:54:02,762
+Lalu para pasukan kami.
+
+754
+00:54:04,820 --> 00:54:08,379
+Jika masih ada
+yang tersisa darimu...,
+
+755
+00:54:08,403 --> 00:54:11,927
+...kami akan beri giliran
+pada kuda kami.
+
+756
+00:54:14,868 --> 00:54:16,911
+Dasar lacur gila.
+
+757
+00:54:17,329 --> 00:54:21,199
+Kau pikir kami akan
+mengabdi padamu ?
+
+758
+00:54:27,246 --> 00:54:31,364
+Kalian takkan mengabdi.
+Tapi kalian akan mati.
+
+759
+00:57:17,763 --> 00:57:33,263
+<font color="#ff9900">Lebah Ganteng</font>
+<font color="#33ffff">http://www.lebahku.com</font>
+<font colot="#ffffff">Resync by TooN</font>
