@@ -3,6 +3,10 @@
 Perang telah usai.
 Musim dingin telah tiba.
 
+1
+00:00:00,436 --> 00:00:17,149
+<b> Password File : ojokepo7 </b>
+
 2
 00:00:20,269 --> 00:00:21,685
 Perang belum selesai.
